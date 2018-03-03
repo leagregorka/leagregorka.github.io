@@ -1,1 +1,36 @@
 theme: jekyll-theme-cayman
+title: Lea Gregorka
+comments: true
+description: Community Manager
+excerpt_separator: "<!-- more -->"
+permalink: /:title/
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: lea.gregorka@gmail.com
+  facebook:
+  flickr:
+  github: 
+  instagram:
+  linkedin: leagregorka
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/ 
+
+plugins:
+  - jemoji
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      featured_image: "/assets/images/bg.jpg"

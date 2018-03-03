@@ -1,0 +1,50 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+
+<head>
+<meta charset="utf-8">
+{% seo %}
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="/assets/css/flexslider.css">
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/responsive.css">
+<link rel="stylesheet" href="/assets/css/animate.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+<!-- Header Section -->
+    {% include header_menu.html %}
+<!-- Header Section --> 
+
+<section id="content" class="section content">
+    <div class="content-image" style='background-image: url("{{ page.featured_image }}"); '>
+    </div>
+    <div class="content-margin">
+        {{ content }}
+    </div>
+</section>
+
+<!-- testimonials section -->
+    {% include testimonials.html %}
+<!-- testimonials section -->
+
+<!-- footer section -->
+    {% include footer.html %}
+<!-- footer section --> 
+
+<!-- JS FILES --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+<script src="/assets/js/bootstrap.min.js"></script> 
+<script src="/assets/js/jquery.flexslider-min.js"></script> 
+<script src="/assets/js/retina.min.js"></script> 
+<script src="/assets/js/modernizr.js"></script> 
+<script src="/assets/js/main.js"></script>
+</body>
+</html>
