@@ -1,7 +1,7 @@
 ---
 title: Blog
 permalink: /blog
-breadcrumb: Page
+breadcrumb: Blog
 featured_image: /assets/images/bg.jpg
 ---
 

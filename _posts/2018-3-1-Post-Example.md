@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Android Lifecycle Overview
-breadcrumb: Android Lifecycle
+title: Teste 1
 featured_image: /assets/images/bg.jpg
 ---
 
 
-{% include figure.html url="../assets/imgs/android-lifecycle.jpg" description="The Android Lifecycle defines the programming paradigm" %}
+{% include figure.html url="/assets/images/bg.jpg" description="Example Label" %}
 
 As I ventured into the Android world as a Developer, one of the first things I had to understand was the lifecycle of an Android App. 
 
@@ -21,16 +20,3 @@ This is a new paradigm that implies having in consideration foreground lifecycle
 As a user navigates through, out of, and back to your app, the Activity instances in your app transition through different states in their lifecycle. 
 
 The Activity class provides a number of callbacks that allow the activity to know that a state has changed: that the system is creating, stopping, or resuming an activity, or destroying the process in which the activity resides.
-
-
-## Fragments
-
-## Between them
-
-
-## Services
-
-## Between Them
-
-
- 
