@@ -2,17 +2,141 @@
 title: Lea Gregorka
 permalink: /
 breadcrumb: Home
-featured_image: /assets/images/bg.jpg
+featured_image: /
 ---
 
-## Lea Gregorka
+<!-- Styles only applied in main page -->
+<style>
+.content-image {
+  display: none;
+}
+.content {
+  width: 100%;
+  padding: 0;
+}
+.content-margin {
+  padding: 0;
+}
+</style>
+<!-- Styles only applied in main page -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus urna duis convallis convallis tellus id. Ullamcorper a lacus vestibulum sed. Ipsum suspendisse ultrices gravida dictum. Sollicitudin nibh sit amet commodo nulla facilisi. Cras sed felis eget velit aliquet sagittis id. Massa tempor nec feugiat nisl pretium. Morbi quis commodo odio aenean sed adipiscing diam. Sit amet nisl purus in mollis nunc sed id. Integer vitae justo eget magna fermentum iaculis eu non diam. Ut porttitor leo a diam sollicitudin. Lorem ipsum dolor sit amet. Lectus proin nibh nisl condimentum. Duis convallis convallis tellus id interdum velit laoreet.
+<!-- Slider Section -->
+<section id="header-slider" class="section">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel"> 
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+    </ol>
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+      <div class="item active"> <img src="/assets/images/slider/slid1.jpg" alt="Chania">
+        <div class="carousel-caption">
+          <h3>We'r Auro</h3>
+          <p>We Build Strong Brands which impact your customers</p>
+        </div>
+      </div>
+      <div class="item"> <img src="/assets/images/slider/slid2.jpg" alt="Chania">
+        <div class="carousel-caption">
+          <h3>Minimal Agency Template</h3>
+          <p>We're Australia based branding & design agency</p>
+        </div>
+      </div>
+    </div>
+    <!-- Controls --> 
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span></a> <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span></a></div>
+</section>
+<!-- Slider Section --> 
+<!-- Service Section -->
+<section id="services" class="section services">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6 col-sm-6">
+        <div class="services-content">
+          <h4>We're Australia based branding & design agency.</h4>
+          <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="services-content">
+          <h5>Brand Experience</h5>
+          <ul>
+            <li><a href="#">Web Design</a></li>
+            <li><a href="#">Mobile Application</a></li>
+            <li><a href="#">Product Development</a></li>
+            <li><a href="#">Packaging</a></li>
+            <li><a href="#">Retail Management</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="services-content">
+          <h5>Media Marketing</h5>
+          <ul>
+            <li><a href="#">Marketing Research</a></li>
+            <li><a href="#">Social Marketing</a></li>
+            <li><a href="#">Mobile marketing</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Service Section --> 
 
-Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada nunc. Lectus quam id leo in vitae turpis massa sed. Amet commodo nulla facilisi nullam vehicula ipsum a. Molestie nunc non blandit massa enim nec dui nunc. Nisl purus in mollis nunc sed id semper risus. Pellentesque sit amet porttitor eget. Sit amet volutpat consequat mauris nunc congue nisi vitae. Mattis aliquam faucibus purus in massa tempor nec feugiat nisl. Auctor urna nunc id cursus metus aliquam eleifend mi. Cursus in hac habitasse platea dictumst quisque sagittis purus. Ut faucibus pulvinar elementum integer. Arcu cursus euismod quis viverra nibh cras pulvinar mattis. Aliquam vestibulum morbi blandit cursus. Semper eget duis at tellus at.
-
-Ultrices gravida dictum fusce ut. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Mattis molestie a iaculis at erat. Sit amet cursus sit amet dictum sit. Id semper risus in hendrerit gravida rutrum quisque non. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sit amet consectetur adipiscing elit pellentesque habitant morbi. Integer enim neque volutpat ac tincidunt. Ligula ullamcorper malesuada proin libero nunc. Magna sit amet purus gravida quis blandit. Elit pellentesque habitant morbi tristique senectus. Tincidunt dui ut ornare lectus sit amet est placerat in. Varius morbi enim nunc faucibus a pellentesque sit amet porttitor. Facilisis sed odio morbi quis commodo odio aenean. Justo donec enim diam vulputate ut.
-
-Quis vel eros donec ac odio tempor orci dapibus ultrices. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Nunc mattis enim ut tellus elementum sagittis vitae et. Sed id semper risus in hendrerit gravida rutrum quisque non. Nulla pellentesque dignissim enim sit amet venenatis urna cursus. In nibh mauris cursus mattis molestie. Nunc id cursus metus aliquam eleifend mi in nulla posuere. At quis risus sed vulputate odio ut. Faucibus in ornare quam viverra orci sagittis eu volutpat. Tortor id aliquet lectus proin nibh nisl condimentum id venenatis. Mauris nunc congue nisi vitae.
-
-Sed risus pretium quam vulputate dignissim suspendisse in est ante. Tincidunt nunc pulvinar sapien et. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Molestie nunc non blandit massa. Sapien eget mi proin sed libero. Felis eget nunc lobortis mattis. Arcu non odio euismod lacinia at quis risus sed. Gravida dictum fusce ut placerat orci. Ac feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Nunc mattis enim ut tellus elementum sagittis vitae. Risus quis varius quam quisque id diam vel. Massa sapien faucibus et molestie ac feugiat. Eu ultrices vitae auctor eu. Elit sed vulputate mi sit amet mauris. Sed risus pretium quam vulputate dignissim suspendisse in est ante.
+<!-- portfolio grid section -->
+<section id="portfolio" class="section portfolio">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+        <div class="caption">
+          <div class="caption-content">
+            <h3>The Shape of Design</h3>
+            <h4>Branding/Graphic</h4>
+          </div>
+        </div>
+        <img src="/assets/images/portfolio/work-1.jpg" class="img-responsive" alt=""> </a> </div>
+      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+        <div class="caption">
+          <div class="caption-content">
+            <h3>czarna kawka</h3>
+            <h4>Branding</h4>
+          </div>
+        </div>
+        <img src="/assets/images/portfolio/work-2.jpg" class="img-responsive" alt=""> </a> </div>
+      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+        <div class="caption">
+          <div class="caption-content">
+            <h3>czarna kawka</h3>
+            <h4>Branding</h4>
+          </div>
+        </div>
+        <img src="/assets/images/portfolio/work-3.jpg" class="img-responsive" alt=""> </a> </div>
+      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+        <div class="caption">
+          <div class="caption-content">
+            <h3>czarna kawka</h3>
+            <h4>Branding</h4>
+          </div>
+        </div>
+        <img src="/assets/images/portfolio/work-4.jpg" class="img-responsive" alt=""> </a> </div>
+      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+        <div class="caption">
+          <div class="caption-content">
+            <h3>czarna kawka</h3>
+            <h4>Branding</h4>
+          </div>
+        </div>
+        <img src="/assets/images/portfolio/work-5.jpg" class="img-responsive" alt=""> </a> </div>
+      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+        <div class="caption">
+          <div class="caption-content">
+            <h3>czarna kawka</h3>
+            <h4>Branding</h4>
+          </div>
+        </div>
+        <img src="/assets/images/portfolio/work-6.jpg" class="img-responsive" alt=""> </a> </div>
+    </div>
+  </div>
+</section>
+<!-- portfolio grid section --> 
