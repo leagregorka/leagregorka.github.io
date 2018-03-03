@@ -22,10 +22,9 @@
 <!-- Header Section -->
     {% include header_menu.html %}
 <!-- Header Section --> 
-
+<div class="content-image" style='background-image: url("{{ page.featured_image }}"); '>
+</div>
 <section id="content" class="section content">
-    <div class="content-image" style='background-image: url("{{ page.featured_image }}"); '>
-    </div>
     <div class="content-margin">
         {{ content }}
     </div>
