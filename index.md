@@ -51,41 +51,31 @@ featured_image: /
 <section id="services" class="section services">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-6 col-sm-6">
+      <div class="col-md-8 col-sm-8">
         <div class="services-content">
           <h4>About me</h4>
-          <p>I enjoy getting stuff done. Due to my “let’s get organized” mania, I thrive with clearly defined goals & deadlines.
-            
-I’m the kind of person who likes being in control of my schedule, however improvising in unpredictable emergency cases (believe me, they happen often in the “start-up world”) has also become my thing too.
-
-What gets me motivated is my desire to grow and thus to learn new things is a part of my everyday life.
-
-I consider myself realistic & highly responsible, therefore values such as authenticity, transparency & honesty are the of the utmost importance to me.
-
-I firmly believe in the power of teamwork. Not only do I consider people the greatest asset that organizations have, but also believe that the right teams can achieve great things. I guess that explains my MSc in HRM.
-
-I also LOVE to travel & experience other cultural environments.
-.</p>
+          <p> </p>
+          <p>I enjoy getting stuff done. Due to my “let’s get organized” mania, I thrive with clearly defined goals & deadlines.</p>
+          <p>I’m the kind of person who likes being in control of my schedule, however improvising in unpredictable emergency cases (believe me, they happen often in the “start-up world”) has also become my thing too.</p>
+          <p> What gets me motivated is my desire to grow and thus to learn new things is a part of my everyday life.</p>
+          <p>I consider myself realistic & highly responsible, therefore values such as authenticity, transparency & honesty are the of the utmost importance to me.</p>
+          <p>I firmly believe in the power of teamwork. Not only do I consider people the greatest asset that organizations have, but also believe that the right teams can achieve great things. I guess that explains my MSc in HRM.</p>
+          <p>I also LOVE to travel & experience other cultural environments.</p>
         </div>
       </div>
-      <div class="col-md-3 col-sm-6">
+      <div class="col-md-4 col-sm-4">
         <div class="services-content">
-          <h5>Skills</h5>
-          <ul>
-            <li><a href="#">Multilingual (EN, PT, ES; SI, CRO)</a></li>
-            <li><a href="#">Team management</a></li>
-            <li><a href="#">Products and Services Managing</a></li>
-            <li><a href="#">Organization</a></li>
-            <li><a href="#">Negotiation</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="services-content">
-          <h5>CV</h5>
-          <ul>
-            <li><a href="#">To know more about me, download my CV</a></li>
-          </ul>
+          <h4>Skills</h4>
+          <p> </p>
+          <p> • Multilingual (5)
+          <br />• Team management
+          <br />• Products and Services management
+          <br />• Organization
+          <br />• Negotiation</p>
+          <br /> <br /><br />
+          <h4>CV</h4>
+          <p> </p>
+            <p><a href="#">To know more about me, download my CV</a></p>
         </div>
       </div>
     </div>
