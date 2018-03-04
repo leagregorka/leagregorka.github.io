@@ -32,8 +32,8 @@ featured_image: /
     <div class="carousel-inner" role="listbox">
       <div class="item active"> <img src="/assets/images/slider/slid1.jpg" alt="Chania">
         <div class="carousel-caption">
-          <h3>We'r Auro</h3>
-          <p>We Build Strong Brands which impact your customers</p>
+          <h3>Hi there. I'm Lea</h3>
+          <p>Welcome to my website.</p>
         </div>
       </div>
       <div class="item"> <img src="/assets/images/slider/slid2.jpg" alt="Chania">
@@ -53,29 +53,38 @@ featured_image: /
     <div class="row">
       <div class="col-md-6 col-sm-6">
         <div class="services-content">
-          <h4>We're Australia based branding & design agency.</h4>
-          <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+          <h4>About me</h4>
+          <p>I enjoy getting stuff done. Due to my “let’s get organized” mania, I thrive with clearly defined goals & deadlines.
+            
+I’m the kind of person who likes being in control of my schedule, however improvising in unpredictable emergency cases (believe me, they happen often in the “start-up world”) has also become my thing too.
+
+What gets me motivated is my desire to grow and thus to learn new things is a part of my everyday life.
+
+I consider myself realistic & highly responsible, therefore values such as authenticity, transparency & honesty are the of the utmost importance to me.
+
+I firmly believe in the power of teamwork. Not only do I consider people the greatest asset that organizations have, but also believe that the right teams can achieve great things. I guess that explains my MSc in HRM.
+
+I also LOVE to travel & experience other cultural environments.
+.</p>
         </div>
       </div>
       <div class="col-md-3 col-sm-6">
         <div class="services-content">
-          <h5>Brand Experience</h5>
+          <h5>Skills</h5>
           <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Mobile Application</a></li>
-            <li><a href="#">Product Development</a></li>
-            <li><a href="#">Packaging</a></li>
-            <li><a href="#">Retail Management</a></li>
+            <li><a href="#">Multilingual (EN, PT, ES; SI, CRO)</a></li>
+            <li><a href="#">Team management</a></li>
+            <li><a href="#">Products and Services Managing</a></li>
+            <li><a href="#">Organization</a></li>
+            <li><a href="#">Negotiation</a></li>
           </ul>
         </div>
       </div>
       <div class="col-md-3 col-sm-6">
         <div class="services-content">
-          <h5>Media Marketing</h5>
+          <h5>CV</h5>
           <ul>
-            <li><a href="#">Marketing Research</a></li>
-            <li><a href="#">Social Marketing</a></li>
-            <li><a href="#">Mobile marketing</a></li>
+            <li><a href="#">To know more about me, download my CV</a></li>
           </ul>
         </div>
       </div>
@@ -91,7 +100,7 @@ featured_image: /
       <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
-            <h3>The Shape of Design</h3>
+            <h3>FOUNDERS FOUNDERS</h3>
             <h4>Branding/Graphic</h4>
           </div>
         </div>
@@ -99,7 +108,7 @@ featured_image: /
       <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
-            <h3>czarna kawka</h3>
+            <h3>SIMI</h3>
             <h4>Branding</h4>
           </div>
         </div>
