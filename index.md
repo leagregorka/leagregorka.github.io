@@ -30,13 +30,13 @@ featured_image: /
     </ol>
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
-      <div class="item active"> <img src="/assets/images/slider/slide1.jpeg" alt="Chania">
+      <div class="item active content-image" style='height:100%; background-image: url("/assets/images/slider/slide1.jpeg"); '>
         <div class="carousel-caption">
           <h3>Hi there. I'm Lea</h3>
           <p>Welcome to my website.</p>
         </div>
       </div>
-      <div class="item"> <img src="/assets/images/slider/slid2.jpg" alt="Chania">
+      <div class="item content-image" style='height:100%; background-image: url("/assets/images/slider/slid2.jpg"); '>
         <div class="carousel-caption">
           <h3>Minimal Agency Template</h3>
           <p>We're Australia based branding & design agency</p>
