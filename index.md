@@ -30,7 +30,7 @@ featured_image: /
     </ol>
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
-      <div class="item active"> <img src="/assets/images/slider/slid1.jpg" alt="Chania">
+      <div class="item active"> <img src="/assets/images/slider/slide1.jpeg" alt="Chania">
         <div class="carousel-caption">
           <h3>Hi there. I'm Lea</h3>
           <p>Welcome to my website.</p>
@@ -91,50 +91,34 @@ featured_image: /
         <div class="caption">
           <div class="caption-content">
             <h3>FOUNDERS FOUNDERS</h3>
-            <h4>Branding/Graphic</h4>
+            <h4>Community & Operations Manager</h4>
           </div>
         </div>
-        <img src="/assets/images/portfolio/work-1.jpg" class="img-responsive" alt=""> </a> </div>
+        <img src="/assets/images/f2.jpg" class="img-responsive" alt=""> </a> </div>
       <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
             <h3>SIMI</h3>
-            <h4>Branding</h4>
+            <h4>Marketing & Operations</h4>
           </div>
         </div>
-        <img src="/assets/images/portfolio/work-2.jpg" class="img-responsive" alt=""> </a> </div>
+        <img src="/assets/images/simi.jpg" class="img-responsive" alt=""> </a> </div>
       <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
-            <h3>czarna kawka</h3>
-            <h4>Branding</h4>
+            <h3>Espaço T</h3>
+            <h4>Internship</h4>
           </div>
         </div>
-        <img src="/assets/images/portfolio/work-3.jpg" class="img-responsive" alt=""> </a> </div>
+        <img src="/assets/images/espacot.jpg" class="img-responsive" alt=""> </a> </div>
       <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
-            <h3>czarna kawka</h3>
-            <h4>Branding</h4>
+            <h3>Voluntary Work</h3>
+            <h4>Different</h4>
           </div>
         </div>
         <img src="/assets/images/portfolio/work-4.jpg" class="img-responsive" alt=""> </a> </div>
-      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
-        <div class="caption">
-          <div class="caption-content">
-            <h3>czarna kawka</h3>
-            <h4>Branding</h4>
-          </div>
-        </div>
-        <img src="/assets/images/portfolio/work-5.jpg" class="img-responsive" alt=""> </a> </div>
-      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
-        <div class="caption">
-          <div class="caption-content">
-            <h3>czarna kawka</h3>
-            <h4>Branding</h4>
-          </div>
-        </div>
-        <img src="/assets/images/portfolio/work-6.jpg" class="img-responsive" alt=""> </a> </div>
     </div>
   </div>
 </section>
