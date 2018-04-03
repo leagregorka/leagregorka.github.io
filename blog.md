@@ -9,7 +9,8 @@ featured_image: /assets/images/bg.jpg
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      {% include figure.html url=post.featured_image description="Example Label" %}
 
       <div class="entry">
         {{ post.excerpt }}

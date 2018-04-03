@@ -5,8 +5,6 @@ featured_image: /assets/images/bg.jpg
 ---
 
 
-{% include figure.html url="/assets/images/bg.jpg" description="Example Label" %}
-
 As I ventured into the Android world as a Developer, one of the first things I had to understand was the lifecycle of an Android App. 
 
 <!-- more -->
