@@ -580,16 +580,18 @@ h2 {
     padding-bottom: 40px;
 }
 
-
 .grid-container {
     display: grid;
-    /*grid-template-columns: auto auto;*/
+	grid-template-columns: 1fr 1fr 1fr;
 }
 
-.grid-item {
-    text-align: center;
+/* Portrait and Landscape */
+@media (max-width: 1150px) { 
+    .grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
 }
-
 
 /* Portrait and Landscape */
 @media (max-width: 812px) { 
@@ -614,10 +616,9 @@ h2 {
 }
 
 /* Add some padding inside the card container */
-.card .container {
-    padding: 2px 16px;
+.card-content{
+	padding: 2px 16px;
 }
-
 
 /* Add rounded corners to the top left and the top right corner of the image */
 .card img {
