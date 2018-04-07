@@ -2,6 +2,9 @@
 layout: post
 title: Teste 1
 featured_image: /assets/images/bg.jpg
+permalink: /blog/:categories/:year/:title
+tags: [  ]
+category: [ personal ]
 ---
 
 
