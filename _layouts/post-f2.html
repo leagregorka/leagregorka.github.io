@@ -12,6 +12,9 @@ layout: default
   <div class="date">
     I wrote this post as a newsletter for the Founders Founders community on {{ page.date | date: "%B %e, %Y" }}
   </div>
+   {% assign RELATED_POSTS_THRESHOLD = 3 %}
+  
+   {% include related-posts.html %}
 
   <footer class="site-footer">
     {% include disqus.html %}

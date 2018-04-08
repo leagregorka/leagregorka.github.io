@@ -664,3 +664,17 @@ h2 {
 figure {
     text-align: center;
 }
+
+.related-posts-grid-container {
+    display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+.related-content p, .related-content b {
+    font-size: 85% !important;
+}
+
+.related {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
