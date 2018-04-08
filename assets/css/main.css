@@ -607,7 +607,8 @@ h2 {
     transition: 0.3s;
     border-radius: 5px; /* 5px rounded corners */
     cursor: pointer;
-    margin:10px !important;
+	margin:10px !important;
+	position:relative;
 }
 
 /* On mouse-over, add a deeper shadow */
@@ -636,9 +637,20 @@ h2 {
     background-size: cover;
 	background-position: center;
 	border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+	border-top-right-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ebeaea;
 }
 
+.card-readmore {
+	position: absolute;
+    bottom: 0;
+}
+
+.card-excerpt {
+    margin-bottom: 60px !important;
+}
 
 .date{
 	padding-top: 50px;
