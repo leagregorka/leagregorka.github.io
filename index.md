@@ -31,10 +31,11 @@ featured_image: /
     </ol>
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
-      <div class="item active content-image" style='height:100%; background-image: url("/assets/images/slider/slide3.jpg"); '>
+      <div class="item active content-image" style='height:100%; background-image: url("/assets/images/slider/slide5.png"); '>
         <div class="carousel-caption">
-          <h3>Hi there. I'm Lea</h3>
-          <p>Welcome to my website.</p>
+          <h3>Hello, I'm Lea!</h3>
+          <h3>I make things happen.</h3>
+          <p></p>
         </div>
       </div>
       <div class="item content-image" style='height:100%; background-image: url("/assets/images/slider/slide1.jpg"); '>
@@ -60,7 +61,7 @@ featured_image: /
     <div class="row">
       <div class="col-md-8 col-sm-8">
         <div class="services-content">
-          <h4>About me</h4>
+          <h4>Who am I?</h4>
           <p> </p>
           <p>I enjoy getting stuff done. Due to my “let’s get organized” mania, I thrive with clearly defined goals & deadlines.</p>
           <p>I’m the kind of person who likes being in control of my schedule, however improvising in unpredictable emergency cases (believe me, they happen often in the “start-up world”) has also become my thing too.</p>
@@ -72,7 +73,7 @@ featured_image: /
       </div>
       <div class="col-md-4 col-sm-4">
         <div class="services-content">
-          <h4>Skills</h4>
+          <h4>My Skills</h4>
           <p> </p>
           <p> • Multilingual (5)
           <br />• Team management
@@ -94,22 +95,22 @@ featured_image: /
 <section id="portfolio" class="section portfolio">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+      <div class="col-sm-6 portfolio-item"> <a href="founders-founders" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
             <h3>FOUNDERS FOUNDERS</h3>
             <h4>Community & Operations Manager</h4>
           </div>
         </div>
-        <img src="/assets/images/f2.jpg" class="img-responsive" alt=""> </a> </div>
-      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+        <img src="/assets/images/f2/f2.jpg" class="img-responsive" alt=""> </a> </div>
+      <div class="col-sm-6 portfolio-item"> <a href="simi" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
             <h3>SIMI</h3>
             <h4>Marketing & Operations</h4>
           </div>
         </div>
-        <img src="/assets/images/simi.jpg" class="img-responsive" alt=""> </a> </div>
+        <img src="/assets/images/simi/simi_3.jpg" class="img-responsive" alt=""> </a> </div>
       <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
@@ -117,15 +118,39 @@ featured_image: /
             <h4>Internship</h4>
           </div>
         </div>
-        <img src="/assets/images/espacot.jpg" class="img-responsive" alt=""> </a> </div>
-      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+        <img src="/assets/images/espacot/espacot.jpg" class="img-responsive" alt=""> </a> </div>
+      <div class="col-sm-6 portfolio-item"> <a href="espacot" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
             <h3>Voluntary Work</h3>
-            <h4>Different</h4>
+            <h4>Different roles</h4>
+          </div>
+          </div>
+        <img src="/assets/images/voluntarywork/voluntarywork.jpg" class="img-responsive" alt=""> </a> </div>
+      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+        <div class="caption">
+          <div class="caption-content">
+            <h3>FOUNDER MEETS FOUNDER</h3>
+            <h4>Organizer</h4>
+          </div>
+          </div>
+        <img src="/assets/images/foundermeetsfounder/foundermeetsfounder.jpg" class="img-responsive" alt=""> </a> </div>
+      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+        <div class="caption">
+          <div class="caption-content">
+            <h3>FOUNDERS CLUB</h3>
+            <h4>Organizer</h4>
+          </div>
+          </div>
+        <img src="/assets/images/foundersclub/foundersclub.jpg" class="img-responsive" alt=""> </a> </div>
+      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+        <div class="caption">
+          <div class="caption-content">
+            <h3>BOOM - MASSIVE GROWTH WEEK</h3>
+            <h4>Organizer</h4>
           </div>
         </div>
-        <img src="/assets/images/portfolio/work-4.jpg" class="img-responsive" alt=""> </a> </div>
+        <img src="/assets/images//boom/boom.jpg" class="img-responsive" alt=""> </a> </div>
     </div>
   </div>
 </section>
