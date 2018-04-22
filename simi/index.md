@@ -11,11 +11,13 @@ featured_image: /assets/images/simi/simi_3.jpg
 #### WHAT IS IT?
 SIMI is a digital menu for restaurants. The main intent of this product is to help restaurant managers increase their sales by showcasing their dishes with professional photos on a tablet. 
 
+{% include figure.html url="/assets/images/simi/simi_7.png" description="" %}
+
 <br />
 #### HOW IT STARTED?
 Initially it was just a simple idea that would help restaurants in their ordering process in a digital way. The company started in April 2012 and its first iteration (the product still wasn’t even called SIMI) was to be a menu that would integrate directly with the main PoS system, import all the dishes and allow an easy creation of a menu. It was totally focused on improving the operations of a restaurant, meaning: to simplify requests, send them directly to the kitchen, reduce waiting times and that was mainly it.
 
-<img src="/assets/images/simi/simi_2.jpg" class="img-responsive" alt="">
+{% include figure.html url="/assets/images/simi/simi_2.jpg" description="" %}
 
 <br />
 #### HOW IT FUNCTIONS?
@@ -23,7 +25,7 @@ SIMI helps the restaurants to control their sales because every order is registe
 Other accessory operational features like calling the waiter or sending the requests to a screen on the kitchen are also a part of the product.
 SIMI also integrates with the main PoS (Point of Sales) systems in use in Portugal to send the requests to the kitchen and to invoice the clients appropriately having all the information also registered in the PoS.
 
- <img src="/assets/images/simi/simi_5.jpg" class="img-responsive" alt="">
+{% include figure.html url="/assets/images/simi/simi_5.jpg" description="" %}
 
 <br />
 #### MY ROLE 
@@ -34,8 +36,8 @@ I was working with the SIMI’s team for almost 2 years and in this time we pass
 We saw the product working with real clients which allowed us to apply adaptations in order to make it even better. We understood that SIMI’s main value to the clients was not the operational improvement, but the marketing effect. The product could increase in sales and provoked customer’s curiosity which reflected in higher ticket per meal amounts. 
 We pivoted the product – in terms of business model (how to sell and communicate it) and in terms of product (made it more easy to use, while also adding the value to the product through professional pictures of the dishes). This was probably also the reason that PizzaHut started to have interest in SIMI and later on adopted SIMI. 
 
- <img src="/assets/images/simi/simi_6.jpg" class="img-responsive" alt="">
-
+{% include figure.html url="/assets/images/simi/simi_6.jpg" description="" %}
+<br />
 
 SIMI also appeared in Portuguese media & newspaper: 
 <br />• [Público (P3)](http://p3.publico.pt/actualidade/economia/14010/jovens-criam-software-de-ementas-digitais-e-pizza-hut-ja-comprou-ideia)

@@ -111,7 +111,7 @@ featured_image: /
           </div>
         </div>
         <img src="/assets/images/simi/simi_3.jpg" class="img-responsive" alt=""> </a> </div>
-      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+      <div class="col-sm-6 portfolio-item"> <a href="espacot" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
             <h3>Espaço T</h3>
@@ -119,7 +119,7 @@ featured_image: /
           </div>
         </div>
         <img src="/assets/images/espacot/espacot.jpg" class="img-responsive" alt=""> </a> </div>
-      <div class="col-sm-6 portfolio-item"> <a href="espacot" class="portfolio-link">
+      <div class="col-sm-6 portfolio-item"> <a href="voluntary-work" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
             <h3>Voluntary Work</h3>

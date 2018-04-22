@@ -1,5 +1,5 @@
 ---
-title: Espaco-T
+title: EspacoT
 featured_image: /assets/images/espacot/espacot.jpg
 ---
 ### ESPAÇO T
@@ -8,20 +8,28 @@ featured_image: /assets/images/espacot/espacot.jpg
  <br />
 ####  WHAT IS IT?
 [Espaço T](www.espacot.pt/), Association for Support to Social and Community Integration, is an association that  was founded in 1994 to fight exclusion and oppression. Espaço T aims to create a reality where their users (i.e. people with illness, physical or mental disabilities or people who simply want express themselves through art) can participate in many different art activities that are organised and led by groups of health and arts professionals. 
+ <br />
+ <br />
+
+ {% include figure.html url="/assets/images/espacot/espacot_10.PNG" description="" %}
 
  <br />
 #### HOW IT STARTED?
 Espaço T Space started its activity in 1994 with the objective to provide an active, conscious and free social participation among their users. The name, Espaço T, also  has a special meaning since the letter "T" stands for “todos” (all of us) and represents an open space where there are no restriction, where all human beings are welcomed.
 
- <img src="/assets/images/espacot/espacot_8.jpg" class="img-responsive" alt="">
+{% include figure.html url="/assets/images/espacot/espacot_8.jpg" description="" %}
 
+ <br />
 
 Espaço T’s area of work are focused on 2 main areas:
-<br />• The individual framework of artistic, cultural and formation activities (formal or non-formal) in order to stimulate the expressive capabilities and self-investment of its users. This area has the intention to change users’ attitudes, values and self-esteem.
-<br />• Promotion of social change, alongside acceptance of social through the Espaço T culture. This area aims to foster long-lasting relationships that change the users’ quality of life.
 
- <img src="/assets/images/espacot/espacot_6.jpg" class="img-responsive" alt="">
 
+ - The individual framework of artistic, cultural and formation activities (formal or non-formal) in order to stimulate the expressive capabilities and self-investment of its users. This area has the intention to change users’ attitudes, values and self-esteem.
+ - Promotion of social change, alongside acceptance of social through the Espaço T culture. This area aims to foster long-lasting relationships that change the users’ quality of life.
+
+ <br />
+
+ {% include figure.html url="/assets/images/espacot/espacot_6.jpg" description="" %}
 
  <br />
 #### HOW IT FUNCTIONS?
@@ -29,7 +37,7 @@ Espaço T’s daily operations consist of many interrelated interventions such a
 
 It currently has about 500 users, some with substance abuse problems, others with HIV, others with Down's syndrome, from the psychiatric forum and also the so-called "normal" ones. 
  
- <img src="/assets/images/espacot/f2_6.png" class="img-responsive" alt="">
+ {% include figure.html url="/assets/images/espacot/espacot_11.jpg" description="" %}
 
 
  <br />
