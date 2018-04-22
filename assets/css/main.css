@@ -76,13 +76,13 @@ body {
 	font-weight: 400;
 	color: #6c7279;
 }
-ul, ol {
+/*ul, ol {
 	margin: 0;
 	padding: 0;
 }
 ul li {
 	list-style: none;
-}
+}*/
 .section {
 	padding: 100px 0;
 }
