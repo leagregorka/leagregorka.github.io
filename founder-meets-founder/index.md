@@ -1,15 +1,17 @@
 ---
-title: Founders-Founders
+title: founders-meets-founder
 featured_image: /assets/images/f2/f2_2.jpg
 ---
-### FOUNDERS FOUNDERS
-#### Role: Community & Operations Manager at Founders Founders
+### FOUNDERS MEETS FOUNDER
+#### Role: Organizer
 
  <br />
 
 #### WHAT IS IT?
+[Founder Meets Founder](http://founders-founders.com/founderstv) is the first ever production of FoundersTV, an initiative created to boost the Portuguese entrepreneurship ecosystem.
 
-[Founders Founders](http://www.founders-founders.com/) is a community of entrepreneurs, companies, investors and an international network of mentors and strategic partners in the areas of management, marketing, technology and communication. It is not an incubator and it is not an accelerator. It is a community of 250 people from all over the world who want to promote individual and business growth through a context that empowers collaboration and mutual aid.
+It is a talk show where the two Porto’s scale-up founders discussed and explored each other’s professional journeys. The aim of the project was to share the entrepreneurial knowledge and experiences, as well as to promote the Porto’s scale-up ecosystem internationally. For that reason, the project was also supported by Câmara Municipal do Porto and ScaleUp Porto. With the implementation we have stimulated the entrepreneurial culture and represented a historical record of the experienced entrepreneurs’ work.
+
 
  <br />
 #### HOW IT STARTED?
@@ -21,13 +23,25 @@ It was founded by 5 entrepreneurs who graduated from another incubator ([UPTEC](
  <br />
 #### HOW IT FUNCTIONS?
 
-A part of Founders Founders community is installed at the Founders House, community’s physical home. The House is located in the city center of Porto, Portugal in a beautiful office building with more than 1500m2 and is prepared to host more than 18 companies. 
+The project consisted of 2 parts: 
+-	**An event**
+
+We organised 6 independent event where the 2 founders were speaking about their challenges in front of an audience. The event itself started with the introduction of the invited founders and the explanation of the project and then continue with the actual conversation between them (meaning no moderation). After that a networking session followed as well. All the event attracted more than 300 attendees and each one of them had the duration of approximately 1.5h. Besides that, the whole event was filmed. 
+ 
+
+-	**Final episodes**
+
+After the live event implementation, the filming material was revised and the most pertinent parts carefully chosen to then be edited into the final episode (20min). The first season of the talk show consists of 6 episodes that were published on Founders Founders’ website, YouTube Channel and social networks. Each episode has a special and different focus, for example some are focused on investment challenges, some on team challenges, etc. 
 
 <img src="/assets/images/f2/f2_5.png" class="img-responsive" alt="">
 
-In the house there is also the Founders Café, a privileged place where the entrepreneurial community gathers and discusses innovate ideas & precious experiences. Besides that, the Founders Café is the place where all the community events happen - from four official monthly events dedicated to business (Scale Me Up), technology (Tech Tech Talk), networking (Founders Are Happy [Hour]), marketing and sales (Let’s Grow Again) to other one-time events related to entrepreneurial fields (Fireside Chat, Workshops, Storytelling among others).
+VIDEOS
 
-Currently, Founders Founders houses 16 different start-ups, ([these in particular](http://www.founders-founders.com/residents/) focused on areas such as digital marketing, retail, health & facility management. Together, all the Founding Founders’ resident companies have received more than 5 Million Euros in investment and employ more than 160 people.
+All the episodes are available on our Founders Founders’ YouTube Channel:
+
+- [Episode 1] (https://www.youtube.com/watch?v=X-PbUSoq2v8&feature=youtu.be) 
+- [Episode 2] 
+Episode 3 ⋅ Episode 4 ⋅ Episode 5 ⋅ Episode 6 ⋅
 
  <img src="/assets/images/f2/f2_4.jpg" class="img-responsive" alt="">
 
