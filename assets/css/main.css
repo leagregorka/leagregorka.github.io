@@ -669,7 +669,10 @@ h2 {
 }
 
 figure {
-    text-align: center;
+	text-align: center;
+	
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .related-posts-grid-container {
