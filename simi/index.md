@@ -4,8 +4,6 @@ featured_image: /assets/images/simi/simi_3.jpg
 ---
 # SIMI
 
-## Role: Marketing Assistant at SIMI
-
 ## WHAT IS IT?
 
 SIMI is a **digital menu for restaurants**. The main intent of this product is to help restaurant managers increase their sales by showcasing their dishes with professional photos on a tablet. 
