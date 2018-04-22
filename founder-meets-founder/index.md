@@ -39,9 +39,12 @@ VIDEOS
 
 All the episodes are available on our Founders Founders’ YouTube Channel:
 
-- [Episode 1] (https://www.youtube.com/watch?v=X-PbUSoq2v8&feature=youtu.be) 
-- [Episode 2] 
-Episode 3 ⋅ Episode 4 ⋅ Episode 5 ⋅ Episode 6 ⋅
+- [Episode 1](https://www.youtube.com/watch?v=X-PbUSoq2v8&feature=youtu.be) 
+- [Episode 2](https://www.youtube.com/watch?v=-r1UsHQdJQQ&t=4s)
+- [Episode 3](https://www.youtube.com/watch?v=l4qe3c0H2F0)
+- [Episode 4](https://www.youtube.com/watch?v=fb6O3fdigrM)
+- [Episode 5](https://www.youtube.com/watch?v=SJEgfktPAhw)
+- [Episode 6](https://www.youtube.com/watch?v=qY-Vvsp-DC8)
 
  <img src="/assets/images/f2/f2_4.jpg" class="img-responsive" alt="">
 
