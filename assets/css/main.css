@@ -393,6 +393,11 @@ ul li {
 	display: block;
 	position: relative;
 	margin: 0 auto;
+	cursor: pointer;
+	height: 424px;
+	
+    background-size: cover;
+    background-position: center;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
 	position: absolute;
