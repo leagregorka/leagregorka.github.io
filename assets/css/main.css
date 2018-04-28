@@ -316,7 +316,7 @@ ul li {
 }
 .carousel-caption h3 {
 	font-family: "Open Sans", sans-serif;
-	color: #2d3033;
+	color: white; /* #2d3033; */
 	text-shadow: none;
 	font-size: 31px;
 	font-weight: 700;
