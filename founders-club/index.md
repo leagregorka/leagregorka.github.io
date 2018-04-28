@@ -14,20 +14,14 @@ Since there are too many events to attend nowadays and, since everyone is focuse
 
 {% include figure.html url="/assets/images/foundersclub/foundersclub_3.jpeg" description="" %}
 
+## HOW IT FUNCTIONS?
 
-#### HOW IT FUNCTIONS?
 The main purpose of the Club’s exclusivity is to grant the feeling of trust among the members, so they can share their most private and professional problems. For that reason, a rigorous selection process is always applied and only certain individuals are selected. We only choose the members whose life experience will be a great asset to other Founders Club members and who will love to learn from the other members as well.
 
-Club’s members are united on monthly basis at exclusive dinners and other activities and also on other occasional events (weekend retreats, travels, etc.). 
- 
- {% include figure.html url="/assets/images/espacot/espacot_11.jpg" description="" %}
+Club’s members are united on monthly basis at exclusive dinners and other activities and also on other occasional events (weekend retreats, travels, etc.).
 
+{% include figure.html url="/assets/images/espacot/espacot_11.jpg" description="" %}
 
- <br />
-#### MY ROLE 
+## MY ROLE
+
 ??
-
-
-
-
-

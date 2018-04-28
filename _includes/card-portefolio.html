@@ -1,0 +1,15 @@
+<div class="col-sm-6 portfolio-item" onclick="goto('{{ site.baseurl }}{{ include.url }}')">
+    <a class="portfolio-link" style='background-image: url("{{ include.img_url }}");'>
+        <div class="caption">
+            <div class="caption-content">
+                <h3>{{ include.title }}</h3>
+                <h4>{{ include.role }}</h4>
+            </div>
+        </div>
+    </a>
+</div>
+<script>
+    function goto(i) {
+        window.location.href = i;
+    }
+</script>
