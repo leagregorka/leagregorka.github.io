@@ -127,7 +127,7 @@ featured_image: /
           </div>
           </div>
         <img src="/assets/images/voluntarywork/voluntarywork.jpg" class="img-responsive" alt=""> </a> </div>
-      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+      <div class="col-sm-6 portfolio-item"> <a href="founder-meets-founder" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
             <h3>FOUNDER MEETS FOUNDER</h3>
@@ -135,7 +135,7 @@ featured_image: /
           </div>
           </div>
         <img src="/assets/images/foundermeetsfounder/foundermeetsfounder.jpg" class="img-responsive" alt=""> </a> </div>
-      <div class="col-sm-6 portfolio-item"> <a href="work-details.html" class="portfolio-link">
+      <div class="col-sm-6 portfolio-item"> <a href="founders-club" class="portfolio-link">
         <div class="caption">
           <div class="caption-content">
             <h3>FOUNDERS CLUB</h3>
