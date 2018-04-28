@@ -6,7 +6,7 @@ featured_image: /assets/images/f2/f2_2.jpg
 
 ## WHAT IS IT?
 
-[Founders Founders](http://www.founders-founders.com/) is a community of entrepreneurs, companies, investors and an international network of mentors and strategic partners in the areas of management, marketing, technology and communication. It is not an incubator and it is not an accelerator. It is a community of 250 people from all over the world who want to promote individual and business growth through a context that empowers collaboration and mutual aid.
+[Founders Founders](http://www.founders-founders.com/) is a community of entrepreneurs, companies, investors and an international network of mentors and strategic partners in the areas of management, marketing, technology and communication. It is not an incubator and it is not an accelerator. It is a **peer-to-peer community** of 250 people from all over the world who want to **promote individual and business growth** through a context that empowers collaboration and mutual aid.
 
 ## HOW IT STARTED?
 
@@ -36,4 +36,8 @@ I joined Founders Founders in June 2016 and the project has been growing ever si
 
 In short we can say I make sure that Founders Founders community provides the best conditions for its members and creates synergies between them to contribute towards their growth, every day.
 
-My work also involves leading and implementing Founders Founders independent projects such as Founders TV’s first vlog series  - Founder Meets Founder, Founders Club and BOOM – Massive Growth Week.
+My work also involves leading and implementing Founders Founders independent projects such as Founders TV’s first vlog series  - Founder Meets Founder , Founders Club and BOOM – Massive Growth Week.
+
+
+
+

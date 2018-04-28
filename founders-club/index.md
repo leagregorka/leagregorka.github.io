@@ -2,19 +2,17 @@
 title: founders-club
 featured_image: /assets/images/espacot/espacot.jpg
 ---
-# Founders Club
+# FOUNDERS CLUB
 
-## WHAT IS IT?
+##  WHAT IS IT?
+Founders Club is an exclusive invite-only membership group of experienced Founders that are invited to share expertise, ask for help and provide contacts at the monthly gatherings.  
 
-Founders Club is an exclusive invite-only membership group of experienced Founders that are invited to share expertise, ask for help and provide contacts at the monthly gatherings.
-
-{% include figure.html url="/assets/images/espacot/espacot_10.PNG" description="" %}
+ {% include figure.html url="/assets/images/foundersclub/foundersclub_2.png" description="" %}
 
 ## HOW IT STARTED?
-
 Since there are too many events to attend nowadays and, since everyone is focused on their personal and professional objectives, the networking quality is dropping faster than a speeding ticket. Founders Club is a project that was created by Founders Founders to solve exactly that problem.
 
-{% include figure.html url="/assets/images/espacot/espacot_8.jpg" description="" %}
+{% include figure.html url="/assets/images/foundersclub/foundersclub_3.jpeg" description="" %}
 
 ## HOW IT FUNCTIONS?
 
