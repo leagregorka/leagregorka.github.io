@@ -1,6 +1,6 @@
 ---
 title: founders-club
-featured_image: /assets/images/foundersclub/foundersclub_2.png
+featured_image: /assets/images/foundersclub/foundersclub_7.png
 ---
 # FOUNDERS CLUB
 
@@ -10,7 +10,7 @@ Founders Club is an **exclusive invite-only membership group of experienced foun
  {% include figure.html url="/assets/images/foundersclub/foundersclub.jpg" description="" %}
 
 ## HOW IT STARTED?
-Since there are too many events to attend nowadays and and since everyone is focused on their personal and professional objectives, the networking quality is dropping faster than a speeding ticket. Founders Club is a project that was created by Founders Founders to solve exactly that problem.
+Since there are too many events to attend nowadays and and since everyone is focused on their personal and professional objectives, the **networking quality** is dropping faster than a speeding ticket. Founders Club is a project that was created by Founders Founders to solve exactly that problem.
 
 {% include figure.html url="/assets/images/foundersclub/foundersclub_3.jpeg" description="" %}
 
@@ -28,6 +28,6 @@ Club members are also entitled to other benefits such as office space rental and
 
 ## MY ROLE
 
-I am the the Foudners Club promoter and organizer, which means I am reponsible for all club's operations. Therefore, I am in charge of the the Founders Club activities, benefits, current and future members. The maojirty of my work consists of coordination the acitvity processes - from the idea phase, to activity schedueling and members invitations, and also the alignment of member's availability. 
+I am the the Foudners Club **promoter and organizer**, which means I am reponsible for **all club's operations**. Therefore, I am in charge of the the Founders Club **activities, benefits, current and future members**. The majority of my work consists of coordination the acitvity processes - from the idea phase, to activity schedueling and members invitations, and also the alignment of member's availability. 
 
 {% include figure.html url="/assets/images/foundersclub/foundersclub_5.png" description="" %}

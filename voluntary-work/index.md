@@ -44,13 +44,13 @@ The [Primary School of Ivan Cankar](http://www.osivanacankarja.si/) is a school 
 
 ## MY ROLE
 
-The first volunteering experience was the learning assistance and in this role I have helped 2 children with financial and psychological disabilities. Besides that, I also organised and led educational group games for children at the school.
+The first volunteering experience was the **learning assistance** and in this role I have helped 2 children with financial and psychological disabilities. Besides that, I also **organised and led educational group games** for children at the school.
 
-While working as the art therapy volunteer I have implemented workshops for people with disabilities, elderly and children, always using creative arts approches.
+While working as the **art therapy volunteer** I have implemented workshops for people with disabilities, elderly and children, always using **creative arts approches**.
 
 {% include figure.html url="/assets/images/voluntarywork/voluntarywork_3.jpg" derescription="" %}
 
-As a child-care worker I practiced childcare (newborn babies and infants) and also offered support to recent mothers (postpartum depression, emotional reactions on birth, selfesteem). My work at Tamala also included the organization of 1-day event full of workshops for children.
+As a **child-care worker** I practiced **childcare** (newborn babies and infants) and also offered **support** to recent mothers (postpartum depression, emotional reactions on birth, selfesteem). My work at Tamala also included the organization of 1-day event full of workshops for children.
 
-As the social worker’s assistant I was responsible for helping in supportive counselling (affirming, challenging, encouraging, informing clients). Besides that I also helped enabling social services and benefits in the social services department.
+As the **social worker’s assistant** I was responsible for helping in **supportive counselling** (affirming, challenging, encouraging, informing clients). Besides that I also helped **enabling social services and benefits** in the social services department.
 
