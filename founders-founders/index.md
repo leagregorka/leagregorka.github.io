@@ -16,27 +16,37 @@ It was founded by 5 entrepreneurs who graduated from another incubator ([UPTEC](
 
 ## HOW IT FUNCTIONS?
 
-A part of Founders Founders community is installed at the Founders House, community’s physical home. The House is located in the city center of Porto, Portugal in a beautiful office building with more than 1500m2 and is prepared to host more than 18 companies.
+A part of Founders Founders community is installed at the **Founders House, community’s physical home**. The House is located in the city center of Porto, Portugal in a beautiful office building with more than 1500m2 and is prepared to host more than 18 companies.
 
 {% include figure.html url="/assets/images/f2/f2_5.png" description="" %}
 
-In the house there is also the Founders Café, a privileged place where the entrepreneurial community gathers and discusses innovate ideas & precious experiences. Besides that, the Founders Café is the place where all the community events happen - from four official monthly events dedicated to business (Scale Me Up), technology (Tech Tech Talk), networking (Founders Are Happy [Hour]), marketing and sales (Let’s Grow Again) to other one-time events related to entrepreneurial fields (Fireside Chat, Workshops, Storytelling among others).
+In the house there is also the Founders Café, a privileged place where the entrepreneurial community gathers and discusses innovate ideas & precious experiences. Besides that, the Founders Café is the place where all the community events happen - from four official monthly events dedicated to business (**Scale Me Up**), technology (**Tech Tech Talk**), networking (**Founders Are Happy [Hour]**), marketing and sales (**Let’s Grow Again**) to other one-time events related to entrepreneurial fields (Fireside Chat, Workshops, Storytelling among others).
 
 Currently, Founders Founders houses 16 different start-ups, ([these in particular](http://www.founders-founders.com/residents/)) focused on areas such as digital marketing, retail, health & facility management. Together, all the Founding Founders’ resident companies have received more than 5 Million Euros in investment and employ more than 160 people.
+
+
+Founders Founders in Portuguese media and newspapers:
+
+- [ECO](https://eco.pt/reportagem/volta-a-portugal-em-incubadoras-founders-founders-porto-sentido-pelos-fundadores/)
+- [Dinheiro vivo](https://www.dinheirovivo.pt/fazedores/founders-founders-dar-o-salto-em-grupo-sem-perder-espirito-startup/)
+- [Câmara Municipal do Porto](http://www.porto.pt/noticias/comunidade-founders-founders-reflete-dinamica-empreendedora-do-porto)
+- [Jornal Económico](http://www.jornaleconomico.sapo.pt/noticias/founders-founders-e-a-comunidade-que-une-fundadores-de-todo-o-mundo-139478)
+- [Portugal Startups](https://portugalstartups.com/2016/02/founders-founders/)
+
 
 {% include figure.html url="/assets/images/f2/f2_4.jpg" description="" %}
 
 ## MY ROLE
 
-As the community manager of Founders Founders I’m responsible for day-to-day operations of the community ensuring the well-being of all Founders. I manage the organization’s communication, marketing, PR & sponsors, as well as, direct and coordinate activities & events. Besides that, I’m also responsible for the pre-selection, selection and on-boarding of the new resident scale-ups at Founders Founders.
+As the **community manager of Founders Founders** I’m responsible for day-to-day operations of the community ensuring the well-being of all Founders. I manage the organization’s **communication, marketing, PR & sponsors, as well as, direct and coordinate activities and events**. Besides that, I’m also responsible for the pre-selection, selection and on-boarding of the new resident scale-ups at Founders Founders.
 
 {% include figure.html url="/assets/images/f2/f2_7.jpg" description="" %}
 
-I joined Founders Founders in June 2016 and the project has been growing ever since. When I joined the Founders Founders only had 8 resident start-ups, 80 resident member and around 150 people involved in the community.
+I joined Founders Founders in June 2016 and the project has been growing ever since. When I joined the Founders Founders only had 8 resident start-ups, 80 resident members and around 150 people involved in the community. With time these number grew and currently we have more than 160 resident members and more than 300 people involved. 
 
 In short we can say I make sure that Founders Founders community provides the best conditions for its members and creates synergies between them to contribute towards their growth, every day.
 
-My work also involves leading and implementing Founders Founders independent projects such as Founders TV’s first vlog series  - Founder Meets Founder , Founders Club and BOOM – Massive Growth Week.
+My work also involves leading and implementing Founders Founders independent projects such as Founders TV’s first vlog series  - **Founder Meets Founder**, **Founders Club** and **BOOM – Massive Growth Week**.
 
 
 
