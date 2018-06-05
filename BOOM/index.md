@@ -6,35 +6,46 @@ featured_image: /assets/images/boom/boom.jpg
 
 ## WHAT IS IT?
 
-[Espaço T](http://www.espacot.pt/), Association for Support to Social and Community Integration, is an **association** that was founded in 1994 to **fight exclusion and oppression**. Espaço T aims to create a reality where all their users (i.e. people with illness, physical or mental disabilities or people who simply want express themselves through art) can participate in different art activities that are organised and led by groups of health and arts professionals. 
+[BOOM - Massive Growth Week](http://www.theboomweek.com/), is a one-week event with the focus on growth marketing and sales topics. It’s the most relevant and intensive training program for startup founders, marketing & sales departments, ever made in Portugal. 
 
-{% include figure.html url="/assets/images/espacot/espacot_10.PNG" description="" %}
+
 
 ## HOW IT STARTED?
 
-Espaço T Space started its activity with the objective to **provide an active, conscious and free social participation among their users**. The name, **Espaço T**, has a special meaning since **the letter "T" stands for “todos (in portuguese)" i.e. all of us** and represents an open space where there are no restriction, where all human beings are welcomed.
+BOOM is a project that brings together the whole start-up community of Porto –  [ANJE](http://www.anje.pt/), [Founders Founders](www.founders-founders.com), [PDF](https://www.pdf.ipp.pt/),[UPTEC](https://uptec.up.pt/)  & [ScaleUp Porto](scaleupporto.pt/). Founders Founders was and still is the initiator of the project as well as the leader of the event’s organization.
 
-{% include figure.html url="/assets/images/espacot/espacot_8.jpg" description="" %}
+BOOM focuses on the Portuguese entrepreneurial growth reality - here Portuguese startup founders, marketers, growth practitioners and salespeople share their learned lessons, best practices and tips so that the participants can boost their business growth. Event also has a special focus on B2B, SaaS & Marketplaces.
 
-Espaço T’s work focuses on 2 main areas:
 
-- The **individual framework of artistic, cultural and formation activities** (formal or non-formal) that stimulate the expressive capabilities and self-investment of its users. This area intends to change users’ attitudes, values and self-esteem.
-- The **promotion and acceptance of social change** through Espaço T's culture. This area aims to foster long-lasting relationships that change the users’ quality of life.
 
-{% include figure.html url="/assets/images/espacot/espacot_6.jpg" description="" %}
+{% include figure.html url="/assets/images/boom/boom_3.jpg" description="" %}
+
+
 
 ## HOW IT FUNCTIONS?
 
-Espaço T’s daily operations consist of many interrelated interventions such as ateliers for artistic expression; daily psychological treatments of users; empowerment of professional integrations with the employment department; formations through with training department; emergency/support telephonic line;  and many other initiatives that aim to open new opportunities to the association’s users. All these activities serve as means of promoting the positive development of self-esteem and self-perception of Espaço T users. 
+The event has in total [5 days, 25 workshops and 25 speakers](http://www.theboomweek.com/#schedule). Each day of the week has a  different focus:  day 1 on “Getting the basics right”, day 2 on “Awareness & Education”, day 3 on “Nurturing & Conversion”, day 4 on “Sales Development” and day 5 on “Customer Success & Referrals”. During each day at least 5 different talks with 5 different speakers occur.
 
-Espaço T has currently about 500 users - some of the users face substance abuse problems, some HIV, some Down's syndrome and some physical disabilties. 
+Besides that, each day the location of the event changes as well. This way the participants get to know the places and communities of Porto’s start-up ecosystem. 
 
-{% include figure.html url="/assets/images/espacot/espacot_11.jpg" description="" %}
+{% include figure.html url="/assets/images/boom/boom_4.jpg" description="" %}
+
+## THE RESULTS
+
+BOOM’s first edition was a success – the participants labelled it as a fantastic event that Porto’s startup community was missing. According to them the event provided them with straightforward and real startup experience as well as with important concepts and practical examples that they can start applying tomorrow. 
+
+The speakers saw the event as extremely valuable and well-constructed in terms of content. Besides that they saw the event as a good opportunity for networking and sharing experiences.
+
+{% include figure.html url="/assets/images/boom/boom_5.jpg" description="" %}
+
+
+{% include figure.html url="/assets/images/boom/boom_6.jpg" description="" %}
 
 ## MY ROLE
 
-As an **intern at Espaço T** I was responsible for **conducting cultural initiatives, artistic activities and workshops**. Besides that, I was also responsible for the **development of social media and campaigns communication**. 
+Since Founders Founders was the initiatior of this one-week growth boot camp, I had the leading role in its organization. I was responsible for the event from conception to clean up - this means everything from reaching out to the potential co-organizers, scheduling regular meetings with them and also delegation of all events responsabilities (i.e. speakers and partner relations, PR, scout and book locations, food, entertainment, staff and cleanup). 
 
-I managed to organise various activities alone, some focused on **learning a new language** and others focused on **improving the user’s motoric capabilities**. During this period I had to develop my own class preparation process, lead the activities and better understand the Portuguese Social, Education and Health systems. 
+I created an inspiring vision among co-organizers, motivated and inspired the team to engage with that vision
+as well as all the deliveries of that vision. I synchronized the work and made sure that team members were delivering according to the deadlines and objectives that were previsouly defined.
 
-While at Espaço T (7 months) I was also **promoting extra-program activities** among the users and their networks (e.g. families, friends). In addition, I participated in fairs and events where I was **promoting Espaço T’s iniciative**.
+{% include figure.html url="/assets/images/boom/boom_2.jpg" description="" %}

@@ -44,10 +44,13 @@ As the **community manager of Founders Founders** I’m responsible for day-to-d
 
 I joined Founders Founders in June 2016 and the project has been growing ever since. When I joined the Founders Founders only had 8 resident start-ups, 80 resident members and around 150 people involved in the community. With time these number grew and currently we have more than 160 resident members and more than 300 people involved. 
 
+{% include figure.html url="/assets/images/f2/f2_10.jpg" description="" %}
+
 In short we can say I make sure that Founders Founders community provides the best conditions for its members and creates synergies between them to contribute towards their growth, every day.
 
 My work also involves leading and implementing Founders Founders independent projects such as Founders TV’s first vlog series  - **Founder Meets Founder**, **Founders Club** and **BOOM – Massive Growth Week**.
 
+{% include figure.html url="/assets/images/f2/f2_8.jpeg" description="" %}
 
 
 
