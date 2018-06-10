@@ -1,6 +1,6 @@
 ---
 title: Voluntary Work
-featured_image: /assets//images/voluntarywork/voluntarywork.jpg
+featured_image: /assets//images/voluntarywork/voluntarywork_11.jpg
 ---
 # VOLUNTARY WORK
 
@@ -53,4 +53,7 @@ While working as the **art therapy volunteer** I have implemented workshops for 
 As a **child-care worker** I practiced **childcare** (newborn babies and infants) and also offered **support** to recent mothers (postpartum depression, emotional reactions on birth, selfesteem). My work at Tamala also included the organization of 1-day event full of workshops for children.
 
 As the **social worker’s assistant** I was responsible for helping in **supportive counselling** (affirming, challenging, encouraging, informing clients). Besides that I also helped **enabling social services and benefits** in the social services department.
+
+
+{% include figure.html url="/assets/images/voluntarywork/voluntarywork.png" description="" %}
 
