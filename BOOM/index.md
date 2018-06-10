@@ -8,7 +8,7 @@ featured_image: /assets/images/boom/boom.jpg
 
 [BOOM - Massive Growth Week](http://www.theboomweek.com/), is a one-week event with the focus on growth marketing and sales topics. It’s the most relevant and intensive training program for startup founders, marketing & sales departments, ever made in Portugal. 
 
-
+{% include figure.html url="/assets/images/boom/boom_5.jpg" description="" %}
 
 ## HOW IT STARTED?
 
@@ -18,7 +18,7 @@ BOOM focuses on the Portuguese entrepreneurial growth reality - here Portuguese 
 
 
 
-{% include figure.html url="/assets/images/boom/boom_3.jpg" description="" %}
+{% include figure.html url="/assets/images/boom/boom_8.jpg" description="" %}
 
 
 
@@ -28,7 +28,7 @@ The event has in total [5 days, 25 workshops and 25 speakers](http://www.theboom
 
 Besides that, each day the location of the event changes as well. This way the participants get to know the places and communities of Porto’s start-up ecosystem. 
 
-{% include figure.html url="/assets/images/boom/boom_4.jpg" description="" %}
+{% include figure.html url="/assets/images/boom/boom_6.jpg" description="" %}
 
 ## THE RESULTS
 
@@ -36,10 +36,10 @@ BOOM’s first edition was a success – the participants labelled it as a fanta
 
 The speakers saw the event as extremely valuable and well-constructed in terms of content. Besides that they saw the event as a good opportunity for networking and sharing experiences.
 
-{% include figure.html url="/assets/images/boom/boom_5.jpg" description="" %}
+{% include figure.html url="/assets/images/boom/boom_7.jpg" description="" %}
 
 
-{% include figure.html url="/assets/images/boom/boom_6.jpg" description="" %}
+{% include figure.html url="/assets/images/boom/boom_3.jpg" description="" %}
 
 ## MY ROLE
 
@@ -48,4 +48,4 @@ Since Founders Founders was the initiatior of this one-week growth boot camp, I 
 I created an inspiring vision among co-organizers, motivated and inspired the team to engage with that vision
 as well as all the deliveries of that vision. I synchronized the work and made sure that team members were delivering according to the deadlines and objectives that were previsouly defined.
 
-{% include figure.html url="/assets/images/boom/boom_2.jpg" description="" %}
+{% include figure.html url="/assets/images/boom/boom_4.jpg" description="" %}
