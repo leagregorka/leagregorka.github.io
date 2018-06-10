@@ -38,6 +38,12 @@ featured_image: /
           <p></p>
         </div>
       </div>
+      <div class="item active content-image" style='height:100%; background-image: url("/assets/images/slider/slide5.jpg"); '>
+        <div class="carousel-caption">
+          <h3></h3>
+          <p></p>
+        </div>
+      </div>
       <div class="item content-image" style='height:100%; background-image: url("/assets/images/slider/slide1.jpg"); '>
         <div class="carousel-caption">
           <h3></h3>
