@@ -1,6 +1,6 @@
 ---
 title: founders-club
-featured_image: /assets/images/foundersclub/foundersclub_7.png
+featured_image: /assets/images/foundersclub/foundersclub_6.png
 ---
 # FOUNDERS CLUB
 
@@ -23,8 +23,6 @@ The main purpose of the Club’s exclusivity is to grant the feeling of trust am
 Club members are united on monthly basis at **exclusive dinners with special activities** (e.g. karting, wine tasting) and also on **other occasional events** (weekend retreats, travels, etc.).
 
 Club members are also entitled to other benefits such as office space rental and participatin on closed events of Founders Founders community.
-
-{% include figure.html url="/assets/images/foundersclub/foundersclub_6.png" description="" %}
 
 ## MY ROLE
 
