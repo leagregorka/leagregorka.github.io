@@ -580,11 +580,25 @@ ul li {
     max-width: 100% !important;
 }
 
-.content-image {
+.content-image-right {
 	width: 100%;
     height: 350px;
     background-size: cover;
 	background-position: 100%;
+}
+
+.content-image-left {
+	width: 100%;
+    height: 350px;
+    background-size: cover;
+	background-position: 0%;
+}
+
+.content-image-center {
+	width: 100%;
+    height: 350px;
+    background-size: cover;
+	background-position: 50%;
 }
 
 .grid-container {

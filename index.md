@@ -32,26 +32,26 @@ featured_image: /
     </ol>
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
-      <div class="item active content-image" style='height:100%; background-image: url("/assets/images/slider/slide5.png"); '>
+      <div class="item active content-image-right" style='height:100%; background-image: url("/assets/images/slider/slide5.png"); '>
         <div class="carousel-caption">
           <h3>Hello, I'm Lea!</h3>
           <h3>I make things happen.</h3>
           <p></p>
         </div>
       </div>
-      <div class="item content-image" style='height:100%; background-image: url("/assets/images/slider/slide5.jpg"); '>
+      <div class="item content-image-center" style='height:100%; background-image: url("/assets/images/slider/slide5.jpg"); '>
         <div class="carousel-caption">
           <h3></h3>
           <p></p>
         </div>
       </div>
-      <div class="item content-image" style='height:100%; background-image: url("/assets/images/slider/slide1.jpg"); '>
+      <div class="item content-image-center" style='height:100%; background-image: url("/assets/images/slider/slide1.jpg"); '>
         <div class="carousel-caption">
           <h3></h3>
           <p></p>
         </div>
       </div>
-      <div class="item content-image" style='height:100%; background-image: url("/assets/images/slider/slide4.jpg"); '>
+      <div class="item content-image-right" style='height:100%; background-image: url("/assets/images/slider/slide4.jpg"); '>
         <div class="carousel-caption">
           <h3></h3>
           <p></p>
