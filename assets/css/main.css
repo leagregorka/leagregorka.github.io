@@ -601,6 +601,13 @@ ul li {
 	background-position: 50%;
 }
 
+.content-image {
+	width: 100%;
+    height: 350px;
+    background-size: cover;
+	background-position: 50%;
+}
+
 .grid-container {
     display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
