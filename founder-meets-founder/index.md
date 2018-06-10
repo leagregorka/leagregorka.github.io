@@ -33,14 +33,37 @@ After the live event implementation, the filming material was revised and the mo
 
 All the episodes are available at Founders Founders’ YouTube Channel:
 
-- [Episode 1](https://www.youtube.com/watch?v=X-PbUSoq2v8)
-- [Episode 2](https://www.youtube.com/watch?v=-r1UsHQdJQQ)
-- [Episode 3](https://www.youtube.com/watch?v=l4qe3c0H2F0)
-- [Episode 4](https://www.youtube.com/watch?v=fb6O3fdigrM)
-- [Episode 5](https://www.youtube.com/watch?v=SJEgfktPAhw)
-- [Episode 6](https://www.youtube.com/watch?v=qY-Vvsp-DC8)
+### Episode 1
+[Carlos Lei](https://www.linkedin.com/in/carlosleisantos/), [HypeLabs](https://hypelabs.io/)'s CEO, and [Paulo Cunha](https://www.linkedin.com/in/pcunha/), [Shiftforward](https://www.shiftforward.eu/)'s CEO, talk about their high tech product development, challenges of expanding abroad and how they have created a highly tech team as well.
+ {% include youtube.html url="https://www.youtube.com/embed/X-PbUSoq2v8" description="" %}
 
-{% include figure.html url="/assets/images/foundermeetsfounder/foundermeetsfounder_10.jpg" description="" %}
+### Episode 2
+[Felipe Ávila da Costa](https://pt.linkedin.com/in/felipeacosta), [Infraspeak](http://home.infraspeak.com/)'s CEO, and [Luís Roque](https://www.linkedin.com/in/lu%C3%ADs-roque-9a84b250/), [HUUB](http://thehuub.co/)'s CEO, discuss their experiences abroad,  funding challenges and also tacke the topic of setting up a well-functioning team.
+
+ {% include youtube.html url="https://www.youtube.com/embed/-r1UsHQdJQQ" description="" %}
+
+### Episode 3
+[Nelson Pereira](https://pt.linkedin.com/in/ncpereira), [TopDox](https://www.topdox.com/)'s CEO, and [Pedro Fortuna](https://pt.linkedin.com/in/pedrofortuna), [Jscrambler](https://jscrambler.com/)'s CTO, debate their funding and internationalisation process, while also addressing the challenges of building a great team.
+
+ {% include youtube.html url="https://www.youtube.com/embed/l4qe3c0H2F0" description="" %}
+
+### Episode 4
+[Bruno Azevedo](https://pt.linkedin.com/in/bfazevedo), [AddVolt](http://www.addvolt.com/en/)'s CEO, and [Tiago Sá](https://www.linkedin.com/in/tiagosawisecrop/), [Wisecrop](https://www.wisecrop.com/)'s CEO, debate their solutions that join hardware with software. They also highlight their funding processes and partnerships' importance.
+
+ {% include youtube.html url="https://www.youtube.com/embed/fb6O3fdigrM" description="" %}
+
+### Episode 5
+
+[Luís Vieira](https://pt.linkedin.com/in/luisvieira89), [B-Parts](https://www.b-parts.com/en/)'s CEO, and [Pedro Roque](https://www.linkedin.com/in/pedroluisroque/), [Emailbidding](https://www.emailbidding.com/)'s CEO, talk about marketplaces and their company’s growth processes. They also address the challenges of funding and of expanding internationally.
+
+ {% include youtube.html url="https://www.youtube.com/embed/SJEgfktPAhw" description="" %}
+
+### Episode 6
+
+[Catarina Simões](https://www.linkedin.com/in/ecosimoes), [Last2Ticket](https://www2.last2ticket.com/en)'s CEO, and [João Rodrigues](https://www.linkedin.com/in/joao-paulo-rodrigues-18b98a6), [Xhockware](http://www.xhockware.com/)'s CEO, talk about their hardware-software solutions and discuss the best ways of setting up an international sales teams
+
+ {% include youtube.html url="https://www.youtube.com/embed/qY-Vvsp-DC8" description="" %}
+
 
 ## MY ROLE
 
