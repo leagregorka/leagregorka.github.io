@@ -99,10 +99,10 @@ ul li {
 -------------------------------------------------------------------------------*/
 #header {
 	position: fixed;
-	width: 94%;
-	z-index: 999;
-	margin-left: 3%;
-	margin-right: 3%;
+    width: 100%;
+    z-index: 999;
+    padding-left: 3%;
+    padding-right: 3%;
 }
 #header .header-content {
 	margin: 0 auto;
@@ -686,4 +686,31 @@ figure {
 .related {
     padding-top: 50px;
     padding-bottom: 100px;
+}
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25% !important; /* 16:9 */
+	padding-top: 25px !important;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.introvideo {
+    width: 94%;
+    margin: auto;
+    padding: 50px 0;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+.introvideo figure {
+	padding-bottom: 0px; 
+	padding-top: 0px;
 }
