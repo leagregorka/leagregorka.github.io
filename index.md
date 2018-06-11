@@ -90,7 +90,7 @@ featured_image: /
           <br /> <br /><br />
           <h4>CV</h4>
           <p> </p>
-            <p><a href="#">To know more about me, download my CV</a></p>
+            <p><a href="/assets/files/CV_Lea Gregorka.pdf">To know more about me, download my CV</a></p>
         </div>
       </div>
     </div>
