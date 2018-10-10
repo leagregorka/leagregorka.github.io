@@ -1,6 +1,6 @@
 ---
 title: BOOM
-featured_image: /assets/images/boom/boom.jpg
+featuredimage: /assets/images/boom/boom.jpg
 ---
 # BOOM - Massive Growth Week
 

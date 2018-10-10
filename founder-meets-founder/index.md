@@ -1,6 +1,6 @@
 ---
 title: founders-meets-founder
-featured_image: /assets/images/foundermeetsfounder/foundermeetsfounder_4.jpg
+featuredimage: /assets/images/foundermeetsfounder/foundermeetsfounder_4.jpg
 ---
 # FOUNDERS MEETS FOUNDER
 

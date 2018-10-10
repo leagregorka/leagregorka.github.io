@@ -2,13 +2,18 @@
 layout: default
 title: Blog
 breadcrumb: Blog
-featured_image: /assets/images/blog_bg.jpg
+featuredimage: /assets/images/blog_bg.jpg
 featured_title: Blog
 ---
 
+
+<input type="text" id="search-input" placeholder="search posts..">
+    <br/>
+    <div id="results-container"></div>
+
 <div class="grid-container">
   {% for post in paginator.posts %}
-      {% include card.html url=post.url img_url=post.featured_image title=post.title description=post.excerpt %}
+      {% include card.html url=post.url img_url=post.featuredimage title=post.title description=post.excerpt %}
   {% endfor %}
 </div>
 
@@ -50,3 +55,15 @@ featured_title: Blog
     {% endif %}
 </div>
 
+<script src="/assets/js/simple-jekyll-search.min.js"></script>
+
+<script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json'
+      
+    })
+
+    
+</script>

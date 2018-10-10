@@ -6,7 +6,7 @@
         {% assign related_post_count = 0 %} {% for post in site.related_posts %} {% if related_post_count == RELATED_POSTS_THRESHOLD
         %} {% break %} {% endif %} {% for tag in post.tags %} {% if page.tags contains tag %}
         
-        {% include related-card.html url=post.url img_url=post.featured_image title=post.title description=post.excerpt %} 
+        {% include related-card.html url=post.url img_url=post.featuredimage title=post.title description=post.excerpt %} 
         
         {% assign related_post_count = related_post_count | plus: 1 %} {% break %} {% endif %} {% endfor
         %} {% endfor %} {% assign posts_left = RELATED_POSTS_THRESHOLD | minus: related_post_count %} {% unless posts_left ==
@@ -15,7 +15,7 @@
         {% endif %} {% endfor %} {% unless already_related %} {% assign posts_left = posts_left | minus: 1 %}
 
        
-        {% include related-card.html url=post.url img_url=post.featured_image title=post.title description=post.excerpt %} 
+        {% include related-card.html url=post.url img_url=post.featuredimage title=post.title description=post.excerpt %} 
         
         {% endunless %} {% endfor %} {% endunless %}
     </div>

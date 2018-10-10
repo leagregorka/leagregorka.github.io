@@ -2,7 +2,7 @@
 title: Lea Gregorka
 permalink: /
 breadcrumb: Home
-featured_image: /
+featuredimage: /
 ---
 
 <!-- Styles only applied in main page -->

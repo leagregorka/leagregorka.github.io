@@ -1,6 +1,6 @@
 ---
 title: EspacoT
-featured_image: /assets/images/espacot/espacot.jpg
+featuredimage: /assets/images/espacot/espacot.jpg
 ---
 # ESPAÇO T
 

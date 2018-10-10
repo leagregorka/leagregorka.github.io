@@ -1,6 +1,6 @@
 ---
 title: founders-club
-featured_image: /assets/images/foundersclub/foundersclub_6.png
+featuredimage: /assets/images/foundersclub/foundersclub_6.png
 ---
 # FOUNDERS CLUB
 

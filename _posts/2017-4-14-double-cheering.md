@@ -2,7 +2,7 @@
 layout: post-f2
 title: Double Cheering 😎
 permalink: /blog/:categories/:year/:title
-featured_image: /assets/images/posts/f2-bg.png
+featuredimage: /assets/images/posts/f2-bg.png
 tags: [ community, easter, inside sales, sales ]
 category: [ founders-founders ]
 ---

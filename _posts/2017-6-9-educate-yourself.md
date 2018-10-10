@@ -2,7 +2,7 @@
 layout: post-f2
 title: Educate yourself 💪
 permalink: /blog/:categories/:year/:title
-featured_image: /assets/images/posts/f2-bg.png
+featuredimage: /assets/images/posts/f2-bg.png
 tags: [ community, education, uni, university, life, learnings ]
 category: [ founders-founders ]
 ---

@@ -35,4 +35,4 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      featured_image: "/assets/images/bg.jpg"
+      featuredimage: "/assets/images/bg.jpg"

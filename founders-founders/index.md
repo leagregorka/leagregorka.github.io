@@ -1,6 +1,6 @@
 ---
 title: Founders-Founders
-featured_image: /assets/images/f2/f2_2.jpg
+featuredimage: /assets/images/f2/f2_2.jpg
 ---
 # FOUNDERS FOUNDERS
 

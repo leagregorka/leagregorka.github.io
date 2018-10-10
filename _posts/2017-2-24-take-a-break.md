@@ -2,7 +2,7 @@
 layout: post-f2
 title: Take a Break
 permalink: /blog/:categories/:year/:title
-featured_image: /assets/images/posts/f2-bg.png
+featuredimage: /assets/images/posts/f2-bg.png
 tags: [ community, break, breath, yoga, run, yell ]
 category: [ founders-founders ]
 ---

@@ -1,6 +1,6 @@
 ---
 title: simi
-featured_image: /assets/images/simi/simi_3.jpg
+featuredimage: /assets/images/simi/simi_3.jpg
 ---
 # SIMI
 

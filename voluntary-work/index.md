@@ -1,6 +1,6 @@
 ---
 title: Voluntary Work
-featured_image: /assets//images/voluntarywork/voluntarywork_11.jpg
+featuredimage: /assets//images/voluntarywork/voluntarywork_11.jpg
 ---
 # VOLUNTARY WORK
 
