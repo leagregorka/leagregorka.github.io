@@ -2,7 +2,8 @@
 title: Blog
 permalink: /blog
 breadcrumb: Blog
-featured_image: /assets/images/bg.jpg
+featured_image: /assets/images/blog_bg.jpg
+featured_title: Blog
 ---
 
 <div class="grid-container">
