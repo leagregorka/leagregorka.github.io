@@ -8,10 +8,8 @@ featured_title: Blog
 
 
 <input type="text" id="search-input" placeholder="search posts..">
-    <br/>
-    <div id="results-container"></div>
 
-<div class="grid-container">
+<div id="results-container" class="grid-container">
   {% for post in paginator.posts %}
       {% include card.html url=post.url img_url=post.featuredimage title=post.title description=post.excerpt %}
   {% endfor %}
@@ -55,14 +53,14 @@ featured_title: Blog
     {% endif %}
 </div>
 
-<script src="/assets/js/simple-jekyll-search.min.js"></script>
+<script src="/assets/js/simple-jekyll-search.js"></script>
 
 <script>
     SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
-      json: '/search.json'
-      
+      json: '/search.json',
+      searchResultTemplate: '<div class="card grid-item" onclick="goto(\'{{ site.baseurl }}{url}\')"><div class="card-top-image" style=\'background-image: url("{featuredimage}");\'> </div><div class="card-content"><h4><b>{title}</b></h4> <p class="card-excerpt">{description}</p><p class="card-readmore"><a>Read more ></a></p></div></div>'
     })
 
     
