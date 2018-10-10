@@ -504,6 +504,7 @@ ul li {
 }
 .footer .footer-share {
 	margin-top: 0;
+    padding-left: 0;
 }
 .footer .footer-share li {
 	display: inline-block;
