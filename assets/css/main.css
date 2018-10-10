@@ -85,7 +85,7 @@ ul li {
 	list-style: none;
 }*/
 .section {
-	padding: 100px 0;
+	padding-top: 100px;
 }
 .no-padding {
 	padding: 0;
@@ -348,7 +348,8 @@ ul li {
 	width: 94%;
 	margin: auto;
 	background-color: #f2f2f2;
-    padding: 50px 0;
+	margin-top: 100px;
+    padding-top: 50px;
 }
 .services h4 {
 	font-size: 33px;
@@ -480,8 +481,8 @@ ul li {
 	width: 94%;
 	margin: auto;
 	text-align: left;
-	padding-top: 5%;
 	padding-bottom: 7%;
+	padding-top: 50px;
 }
 .footer h4 {
 	font-size: 22px;
@@ -562,7 +563,7 @@ ul li {
 
 .content-margin {
 	padding: 7%;
-    padding-bottom: 5%;
+    padding-bottom: 0%;
 }
 
 .content p, .content ul, .content ul li {
@@ -743,4 +744,12 @@ figure {
 .introvideo figure {
 	padding-bottom: 0px; 
 	padding-top: 0px;
+}
+
+.paginatorwrapper {
+	text-align: center;
+}
+
+.pagination {
+	display: inline-block;
 }

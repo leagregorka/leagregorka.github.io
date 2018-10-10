@@ -3,7 +3,8 @@ title: Lea Gregorka
 comments: true
 description: Community Manager
 excerpt_separator: "<!-- more -->"
-permalink: /:title/
+paginate: 6
+paginate_path: "/blog/page:num/"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -23,6 +24,7 @@ footer-links:
 
 plugins:
   - jemoji
+  - jekyll-paginate
 
 # Set the Sass partials directory, as we're using @imports
 sass:
