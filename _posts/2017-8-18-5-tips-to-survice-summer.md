@@ -3,7 +3,7 @@ layout: post-f2
 title: 5 tips to survive summer at work 🌅
 permalink: /blog/:categories/:year/:title
 featuredimage: /assets/images/posts/f2-bg.png
-tags: [ sales, ping pong, vacation ]
+tags: [ tips, survice, summer, work ]
 category: [ founders-founders ]
 ---
 
