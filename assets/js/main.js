@@ -28,13 +28,14 @@ $(document).ready(function() {
 	        	bottom = top + $(this).outerHeight();
 	    	if (cur_pos >= top && cur_pos <= bottom) {
 	      		nav.find('a').removeClass('active');
-	      		nav.find('a[href="#'+$(this).attr('id')+'"]').addClass('active');
+	      		nav.find('a[href="/#'+$(this).attr('id')+'"]').addClass('active');
 	    	}
 	  	});
 	});
 	nav.find('a').on('click', function () {
 	  	var $el = $(this)
-	    	id = $el.attr('href');
+			id = $el.attr('href');
+		id = id.substring(1);
 		$('html, body').animate({
 			scrollTop: $(id).offset().top - 75
 		}, 500);

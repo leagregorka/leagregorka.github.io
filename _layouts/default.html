@@ -9,6 +9,7 @@
 {% seo %}
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico"/>
 <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
 <link rel="stylesheet" href="/assets/css/flexslider.css">
 <link rel="stylesheet" href="/assets/css/main.css">
@@ -24,7 +25,8 @@
 <!-- Header Section --> 
 
 <section id="content" class="section content">
-    <div class="content-image" style='background-image: url("{{ page.featured_image }}"); '>
+    <div class="content-image" style='background-image: url("{{ page.featuredimage }}"); '>
+        {{ page.featured_title }}
     </div>
     <div class="content-margin">
         {{ content }}
@@ -32,7 +34,7 @@
 </section>
 
 <!-- testimonials section -->
-    {% include testimonials.html %}
+    <!-- {  include testimonials.html %  -->
 <!-- testimonials section -->
 
 <!-- footer section -->
@@ -46,5 +48,8 @@
 <script src="/assets/js/retina.min.js"></script> 
 <script src="/assets/js/modernizr.js"></script> 
 <script src="/assets/js/main.js"></script>
+
+
+
 </body>
 </html>

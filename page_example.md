@@ -2,7 +2,7 @@
 title: Lea Gregorka
 permalink: /page
 breadcrumb: Page
-featured_image: /assets/images/bg.jpg
+featuredimage: /assets/images/bg.jpg
 ---
 
 ## Lea Gregorka
