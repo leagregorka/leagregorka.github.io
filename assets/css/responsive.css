@@ -120,3 +120,15 @@
 		grid-template-columns: 1fr;
 	}
 }
+
+.post {
+	margin: auto;
+	width: calc(66.66% - ( ( 4% + 4% ) * 0.6666 ) );
+}
+
+@media screen and (max-width: 850px) {
+	.post {
+		margin: auto;
+		width: 100%
+	}
+}
