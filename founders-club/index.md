@@ -16,7 +16,7 @@ Since there are too many events to attend nowadays and and since everyone is foc
 
 ## HOW IT FUNCTIONS?
 
-The main purpose of the Club’s exclusivity is to grant the feeling of trust among the members, so they can share their most private and professional problems. For that reason, a **rigorous selection process** is always applied and **only certain individuals are selected**. We only choose the members whose life experience would be a great asset to other Founders Club members and who would love to learn from other members as well.
+The main purpose of the Club’s exclusivity is to grant the feeling of trust among the members, so they can share their most private and professional problems. For that reason, a **rigorous selection process** is always applied and **only certain individuals are selected**. Only the members whose life experience would be a great asset to other Founders Club members and who would love to learn from others are accepted.
 
 {% include figure.html url="/assets/images/foundersclub/foundersclub_4.png" description="" %}
 
@@ -26,6 +26,6 @@ Club members are also entitled to other benefits such as office space rental and
 
 ## MY ROLE
 
-I am the the Foudners Club **promoter and organizer**, which means I am reponsible for **all club's operations**. Therefore, I am in charge of the the Founders Club **activities, benefits, current and future members**. The majority of my work consists of coordination the acitvity processes - from the idea phase, to activity schedueling and members invitations, and also the alignment of member's availability. 
+I am the the Founders Club **promoter and organizer**, which means I am responsible for **all club's operations**. Therefore, I am in charge of the club's **activities, benefits, current and future members**. The majority of my work consists of coordinating the activities - from the idea phase, scheduling,  inviting to the alignment of members' availabilities. 
 
 {% include figure.html url="/assets/images/foundersclub/foundersclub_5.png" description="" %}

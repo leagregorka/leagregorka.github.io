@@ -42,8 +42,8 @@ The speakers saw the event as **extremely valuable and well-constructed** in ter
 
 ## MY ROLE
 
-I was the BOOM's **lead organizer**, which meant I was responsible for the event from its conception to implementation. I reached out to other co-organizers, scheduled and led regular meetings with them and also delegated the events responsabilities (i.e. speakers, partners relations, PR, scout and book locations, food, entertainment, staff and cleanup). 
+I was BOOM's **lead organizer**, which meant I was responsible for the event from its **conception to implementation**. I reached out to other co-organizers, scheduled and led regular meetings with them and also delegated the events responsibilities (i.e. speakers, partners relations, PR, scout and book locations, food, entertainment, staff and cleanup). 
 
-My main task was to **create and maintain an inspiring vision** among co-organizers, and also motivate and enage so they would delivers this vision. I alsosynchronized the work and made sure that team members were respecting the deadlines and objectives that we had previsouly defined.
+My main task was to **create and maintain an inspiring vision** among co-organizers, and also motivate and engage them, so they would delivers this vision. I also synchronized the work and made sure that team members were respecting the deadlines and objectives that we had previously defined.
 
 {% include figure.html url="/assets/images/boom/boom_4.jpg" description="" %}

@@ -20,12 +20,9 @@ A part of Founders Founders community is installed at the **Founders House, comm
 
 {% include figure.html url="/assets/images/f2/f2_5.png" description="" %}
 
-In the house there is also the Founders Café, a privileged place where the entrepreneurial community gathers and discusses innovate ideas & precious experiences. Besides that, the Founders Café is the place where all the community events happen - from four official monthly events dedicated to business (**Scale Me Up**), technology (**Tech Tech Talk**), networking (**Founders Are Happy [Hour]**), marketing and sales (**Let’s Grow Again**) to other one-time events related to entrepreneurial fields (Fireside Chat, Workshops, Storytelling among others).
+In the house there is also the Founders Café, a privileged place where the entrepreneurial community gathers and discusses innovate ideas and precious experiences. Besides that, the Founders Café is the place where all the community events happen - from four official monthly events dedicated to business (**Scale Me Up**), technology (**Tech Tech Talk**), networking (**Founders Are Happy [Hour]**), marketing and sales (**Let’s Grow Again**) to other one-time events related to entrepreneurial fields (Fireside Chats, Workshops among others).
 
-Currently, Founders Founders houses 16 different start-ups, ([these in particular](http://www.founders-founders.com/residents/)) focused on areas such as digital marketing, retail, health & facility management. Together, all the Founding Founders’ resident companies have received more than 7 Million Euros in investment and employ more than 160 people.
-
-Another part of Founders Founders community is **Founders Club**, which basically consists of all non-physical community members. Founders Club is however an exclusive **invite-only or referral-only** membership group of experienced founders and other entrepreneurs that share expertises, ask for help and provide contacts.
-
+Currently, Founders Founders houses 16 different start-ups, ([these in particular](http://www.founders-founders.com/residents/)) focused on areas such as digital marketing, retail, health and facility management. Together, all the Founders Founders’ resident companies have received more than **10 million euros in investment** and employ more than **160 people**.
 
 Founders Founders in Portuguese media and newspapers:
 
@@ -44,13 +41,13 @@ As the **community manager of Founders Founders** I’m responsible for day-to-d
 
 {% include figure.html url="/assets/images/f2/f2_7.jpg" description="" %}
 
-I joined Founders Founders in June 2016 and the project has been growing ever since. When I joined the Founders Founders only had 8 resident start-ups, 80 resident members and around 150 people involved in the community. With time these numbers have grown and currently we have more than 160 resident members and more than 300 people involved. 
+I joined Founders Founders in June 2016 and the project has been growing ever since. When I joined the Founders Founders only had 8 resident start-ups, 80 resident members and around 150 people involved in the community. **With time these numbers have grown and currently we have more than 160 resident members and more than 300 people involved.**
 
 {% include figure.html url="/assets/images/f2/f2_10.jpg" description="" %}
 
 In short we can say I make sure that Founders Founders community provides the best conditions for its members and creates synergies between them to contribute towards their growth, every day.
 
-My work also involves leading and implementing Founders Founders independent projects such as Founders TV’s first vlog series  - **Founder Meets Founder**, **Incinerator** and **BOOM – Massive Growth Week**.
+My work also involves leading and implementing Founders Founders independent projects such as Founders TV’s vlog series, **Founder Meets Founder** and **Incinerator**, and one week event, **BOOM – Massive Growth Week**.
 
 {% include figure.html url="/assets/images/f2/f2_8.jpeg" description="" %}
 

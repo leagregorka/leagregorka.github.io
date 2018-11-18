@@ -19,7 +19,7 @@ Initially SIMI was just a simple idea that would help restaurants in their order
 ## HOW IT FUNCTIONS?
 
 SIMI helps the restaurants to **control their sales** because **every order is registered online on the back office**. Besides helping control the sales it also allows the waiter to suggest wines according to the dish automatically, allowing **better cross-sales** without risking to be inconvenient by, for example, suggesting more expensive wines.
-Other accessory **operational features** like calling the waiter or sending the requests to a screen on the kitchen are also a part of the product.
+
 SIMI also integrates with the main PoS (Point of Sales) systems in use in Portugal to send the requests to the kitchen and to **invoice the clients appropriately** having all the information also registered in the PoS.
 
 SIMI in Portuguese media and newspapers:
@@ -33,13 +33,13 @@ SIMI in Portuguese media and newspapers:
 
 ## MY ROLE
 
-As a **marketing assistant** of SIMI I was responsible for **development and productions of marketing materials** (flyers, brochures, banners and logos) for several marketing campaigns. My work involved design and construction of menus by using the SIMI platform for several clients, including PizzaHut. 
+As a **marketing assistant** of SIMI I was responsible for **development and production of marketing materials** (flyers, brochures, banners and logos) for several marketing campaigns. My work involved design and construction of menus by using the SIMI platform for several clients, including PizzaHut. 
 
 Besides that, I also designed and implemented responsive websites based on **WordPress**. Here I fully customized and implemented different functionalities by using different themes and plugins that required development in **PHP, HTML and CSS3**.
 
-I was working with the SIMI’s team for almost **2 years** and in this time we passed through many interesting processes.  We saw the product working with real clients which allowed us to apply adaptations in order to make it even better. We understood that SIMI’s main value to the clients was not the operational improvement, but the marketing effect. The product could increase in sales and provoked customer’s curiosity which reflected in higher ticket per meal amounts.
+I was working with the SIMI’s team for almost **2 years** and in this time we passed through many interesting processes. We saw the product working with real clients which allowed us to apply adaptations in order to make it even better. We understood that SIMI’s main value to the clients was not the operational improvement, but the marketing effect. 
 
-We pivoted the product – in terms of business model (how to sell and communicate it) and in terms of product (made it more easy to use, while also adding the value to the product through professional pictures of the dishes). This was probably also the reason that PizzaHut started to have interest in SIMI and later on adopted it. 
+We pivoted the product – in terms of business model (how to sell and communicate it) and in terms of product (made it more easy to use, while also adding the value to the product through professional pictures of the dishes). 
 
 {% include figure.html url="/assets/images/simi/simi_6.jpg" description="" %}
 

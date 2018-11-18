@@ -6,7 +6,7 @@ featuredimage: /assets/images/foundermeetsfounder/foundermeetsfounder_4.jpg
 
 ## WHAT IS IT?
 
-[Founder Meets Founder](http://founders-founders.com/founderstv) is the **first ever production of FoundersTV**, an initiative that aims to boost the Portuguese entrepreneurship ecosystem thorugh valuable content.
+[Founder Meets Founder](http://founders-founders.com/founderstv) is the **first ever production of FoundersTV** that aims to boost the Portuguese entrepreneurship ecosystem thorugh valuable content.
 
 It is a **talk show** where the two Porto’s scale-up founders discuss and explore each other’s professional journeys. The aim of the project is to **share the entrepreneurial knowledge and experiences**, as well as to **promote Porto’s scale-up ecosystem** internationally. 
 
@@ -17,7 +17,7 @@ The project was also supported by [Câmara Municipal do Porto](http://www.cm-por
 
 ## HOW IT FUNCTIONS?
 
-The first prodution fo the project consisted of 2 parts:
+The first prodution of the project consisted of 2 parts:
 
 - **Serie of events**
 
@@ -36,7 +36,7 @@ After the live events implementations, the filming material was revised and the 
 All the episodes are available at Founders Founders’ YouTube Channel:
 
 ### Episode 1
-[Carlos Lei](https://www.linkedin.com/in/carlosleisantos/), [HypeLabs](https://hypelabs.io/)'s CEO, and [Paulo Cunha](https://www.linkedin.com/in/pcunha/), [Shiftforward](https://www.shiftforward.eu/)'s CEO, talk about their high tech product development, challenges of expanding abroad and how they have created a highly tech teams as well.
+[Carlos Lei](https://www.linkedin.com/in/carlosleisantos/), [HypeLabs](https://hypelabs.io/)'s CEO, and [Paulo Cunha](https://www.linkedin.com/in/pcunha/), [Shiftforward](https://www.shiftforward.eu/)'s CEO, talk about their high tech product development and challenges of expanding abroad.
  {% include youtube.html url="https://www.youtube.com/embed/X-PbUSoq2v8" description="" %}
 
 ### Episode 2
@@ -45,18 +45,18 @@ All the episodes are available at Founders Founders’ YouTube Channel:
  {% include youtube.html url="https://www.youtube.com/embed/-r1UsHQdJQQ" description="" %}
 
 ### Episode 3
-[Nelson Pereira](https://pt.linkedin.com/in/ncpereira), [TopDox](https://www.topdox.com/)'s CEO, and [Pedro Fortuna](https://pt.linkedin.com/in/pedrofortuna), [Jscrambler](https://jscrambler.com/)'s CTO, debate their funding and internationalisation process, while also addressing the challenges of captivating the talent among their teams.
+[Nelson Pereira](https://pt.linkedin.com/in/ncpereira), [TopDox](https://www.topdox.com/)'s CEO, and [Pedro Fortuna](https://pt.linkedin.com/in/pedrofortuna), [Jscrambler](https://jscrambler.com/)'s CTO, debate their funding and internationalisation process, while also addressing the challenges of captivating talented employees.
 
  {% include youtube.html url="https://www.youtube.com/embed/l4qe3c0H2F0" description="" %}
 
 ### Episode 4
-[Bruno Azevedo](https://pt.linkedin.com/in/bfazevedo), [AddVolt](http://www.addvolt.com/en/)'s CEO, and [Tiago Sá](https://www.linkedin.com/in/tiagosawisecrop/), [Wisecrop](https://www.wisecrop.com/)'s CEO, discuss their solutions that join hardware with software and also the importance of partnerships in their startups.
+[Bruno Azevedo](https://pt.linkedin.com/in/bfazevedo), [AddVolt](http://www.addvolt.com/en/)'s CEO, and [Tiago Sá](https://www.linkedin.com/in/tiagosawisecrop/), [Wisecrop](https://www.wisecrop.com/)'s CEO, discuss their hardware-software solutions pains and also the importance of partnerships.
 
  {% include youtube.html url="https://www.youtube.com/embed/fb6O3fdigrM" description="" %}
 
 ### Episode 5
 
-[Luís Vieira](https://pt.linkedin.com/in/luisvieira89), [B-Parts](https://www.b-parts.com/en/)'s CEO, and [Pedro Roque](https://www.linkedin.com/in/pedroluisroque/), [Emailbidding](https://www.emailbidding.com/)'s CEO, talk about marketplaces and their company’s growth processes. They also address the challenges of funding and expanding internationally.
+[Luís Vieira](https://pt.linkedin.com/in/luisvieira89), [B-Parts](https://www.b-parts.com/en/)'s CEO, and [Pedro Roque](https://www.linkedin.com/in/pedroluisroque/), [Emailbidding](https://www.emailbidding.com/)'s CEO, talk about marketplaces and their company’s growth processes. 
 
  {% include youtube.html url="https://www.youtube.com/embed/SJEgfktPAhw" description="" %}
 
@@ -69,7 +69,7 @@ All the episodes are available at Founders Founders’ YouTube Channel:
 
 ## MY ROLE
 
-As the **main organizer** of the iniciative I was reposible for the **overall excecution**. This means I contracted the **filming company**, created the **scenography**, prepared the **script** (guidelines) and also participated in the process of **interviweee selection, invitation and avaliability alignement**. 
+As the **main organizer** of the initiative I was responsible for the **overall execution**. This means I contracted the **filming company**, created the **scenography**, prepared the **script** (guidelines) and also participated in the process of **interviewee selection, invitation and availability alignment**. 
 
 Besides that, I was responsible for the event and final episodes **communication (from PR to communication campaigns)**.
 
