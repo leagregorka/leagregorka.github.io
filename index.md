@@ -85,7 +85,7 @@ featuredimage: /
           <p> • Multilingual (4)
           <br />• Team management
           <br />• Organization and Planning
-          <br />• Communication Strategy</p>
+          <br />• Communication strategy</p>
           <br /> <br /><br />
           <h4>CV</h4>
           <p> </p>
