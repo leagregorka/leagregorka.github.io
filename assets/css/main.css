@@ -772,3 +772,11 @@ figure {
   .PageNavigation .next {
 	text-align: right;
   }
+
+  #search-input {
+    border-radius: 10px;
+    width: 100%;
+    border: 2px solid #ddd;
+    padding: 10px;
+    margin-bottom: 25px;
+  }
