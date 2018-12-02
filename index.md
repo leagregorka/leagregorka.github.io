@@ -82,11 +82,10 @@ featuredimage: /
         <div class="services-content">
           <h4>My Skills</h4>
           <p> </p>
-          <p> • Multilingual (5)
+          <p> • Multilingual (4)
           <br />• Team management
-          <br />• Products and Services management
-          <br />• Organization
-          <br />• Negotiation</p>
+          <br />• Organization and Planning
+          <br />• Communication Strategy</p>
           <br /> <br /><br />
           <h4>CV</h4>
           <p> </p>
