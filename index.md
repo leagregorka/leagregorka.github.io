@@ -72,9 +72,9 @@ featuredimage: /
           <p> </p>
           <p>I enjoy getting stuff done. Due to my “let’s get organized” mania, I thrive with clearly defined goals & deadlines.</p>
           <p>I’m the kind of person who likes being in control of my schedule, however improvising in unpredictable emergency cases (believe me, they happen often in the “start-up world”) has also become my thing too.</p>
-          <p> What gets me motivated is my desire to grow and thus to learn new things is a part of my everyday life.</p>
-          <p>I consider myself realistic & highly responsible, therefore values such as authenticity, transparency & honesty are the of the utmost importance to me.</p>
+          <p>I consider myself realistic & highly responsible, therefore values such as transparency & honesty are of the utmost importance to me.</p>
           <p>I firmly believe in the power of teamwork. Not only do I consider people the greatest asset that organizations have, but also believe that the right teams can achieve great things. I guess that explains my MSc in HRM.</p>
+          <p>I'm currently working on innovation programmes and projects with startups, scaleups, academia and large corporations to help grow their businesses and solve their challenges.</p>
           <p>I also LOVE to travel & experience other cultural environments.</p>
         </div>
       </div>
@@ -82,10 +82,11 @@ featuredimage: /
         <div class="services-content">
           <h4>My Skills</h4>
           <p> </p>
-          <p> • Multilingual (4)
-          <br />• Team management
-          <br />• Organization and Planning
-          <br />• Communication strategy</p>
+          <p> • Analytical
+          <br />• Ownership mentality
+          <br />• Strategic thinking
+          <br />• Product management
+          <br />• Jack-off-all trades</p>
           <br /> <br /><br />
           <h4>CV</h4>
           <p> </p>
