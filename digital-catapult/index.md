@@ -10,7 +10,7 @@ featuredimage: /assets/images/digitalcatapult/office.jpeg
 
 At Digital Catapult we bridge the gap between businesses of all sizes, government and academics to unlock new ways of solving real world challenges in the manufacturing and creative industries. We provide physical and digital facilities that would otherwise not be accessible for smaller companies helping to break down barriers to technology adoption.
 
-{% include figure.html url="/assets/images/digitalcatapult/startups.jpg" description="" %}
+{% include figure.html url="/assets/images/digitalcatapult/startups.jpg" description="" width="700px" %}
 
 ## HOW IT FUNCTIONS?
 
@@ -46,7 +46,7 @@ as well as work on bigger corporate projects and even on companuy's first spin-o
 - [Urban Data Collective](https://www.urbandatacollective.com/)
 
 
-{% include figure.html url="/assets/images/digitalcatapult/augmentor.jpg" description="" %}
+{% include figure.html url="/assets/images/digitalcatapult/augmentor.jpg" description="" width="700px" %}
 
 
 
