@@ -4,8 +4,6 @@ featuredimage: /assets//images/voluntarywork/voluntarywork_10.jpg
 ---
 # VOLUNTARY WORK
 
-## WHAT IS IT?
-
 So far, I've had 4 different volunteering experiences where I had the role of:
 
 - Assistant of Social worker at [Center of Social Work of Vrhnika](http://www.csd-vrhnika.com/) (Slovenia)
@@ -13,14 +11,6 @@ So far, I've had 4 different volunteering experiences where I had the role of:
 - Child-care worker at [Institute Tamala](http://www.prostovoljstvo.org/index.php?t=itemOrganization&uid=3847) (Slovenia)
 - Learning Assistance at [Primary School of Ivan Cankar](http://www.osivanacankarja.si/) (Slovenia)
 
-
-
-## HOW IT STARTED?
-
-During my studies at the [Faculty of Social Work](https://www.fsd.uni-lj.si/) we have spoken about giving back to the community many times and the faculty itself had a very facilitating attitude towards volunteer work. Because of that, and because I also felt the need to contribute to our society, I decided to become a volunteer in my first year of bachelor studies.
-
-
-## HOW IT FUNCTIONS?
 
 Each of my 4 volunteer experiences was independent and took place in different institution that had a specific objective, mission and vision. 
 
@@ -52,7 +42,4 @@ While working as the **art therapy volunteer** I have implemented workshops for 
 As a **child-care worker** I practiced **childcare** (newborn babies and infants) and also offered **support** to recent mothers (postpartum depression, emotional reactions on birth, self-esteem). My work at Tamala also included the organization of 1-day event full of workshops for children.
 
 As the **social worker’s assistant** I was responsible for helping in **supportive counselling** (affirming, challenging, encouraging, informing clients) and in **enabling social services and benefits** of the social services department.
-
-
-{% include figure.html url="/assets/images/voluntarywork/voluntarywork_4.jpeg" description="" %}
 

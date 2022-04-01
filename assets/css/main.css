@@ -780,3 +780,12 @@ figure {
     padding: 10px;
     margin-bottom: 25px;
   }
+
+  .white_background {
+	background-color: white;  
+  }
+
+  .section_headers {
+	  margin-top: 70px;
+	  margin-bottom: 30px !important;
+  }

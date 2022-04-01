@@ -37,7 +37,9 @@ Founders Founders in Portuguese media and newspapers:
 
 ## MY ROLE
 
-As the **community manager of Founders Founders** I’m responsible for day-to-day operations of the community as well as for ensuring the well-being of all members. I manage the organization’s **communication, marketing, PR & sponsors, and also direct and coordinate events**. Besides that, I’m also responsible for the pre-selection, selection and on-boarding of the new resident scale-ups at Founders Founders.
+As the **community and operations manager of Founders Founders** I was responsible for day-to-day operations of the community as well as for ensuring the well-being of all members. I manage the organization’s **communication, marketing, PR & sponsors, and also direct and coordinate events**. Besides that, I’m also responsible for the pre-selection, selection and on-boarding of the new resident scale-ups at Founders Founders.
+
+You can read all the newsletters I've written in this <a href="/blog">BLOG</a>.
 
 {% include figure.html url="/assets/images/f2/f2_7.jpg" description="" %}
 
