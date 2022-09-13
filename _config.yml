@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: Lea Gregorka
 comments: true
-description: Community Manager
+description: Product Manager
 excerpt_separator: "<!-- more -->"
 paginate: 6
 paginate_path: "/blog/page:num/"
