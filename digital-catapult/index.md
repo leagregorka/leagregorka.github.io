@@ -6,25 +6,15 @@ featuredimage: /assets/images/digitalcatapult/office.jpeg
 
 ## WHAT IS IT?
 
-[Digital Catapult](https://www.digicatapult.org.uk/) drives early adoption of **artificial intelligence, immersive and future networks technologies** to make UK businesses more competitive and productive, and to **grow the country’s economy**.
+[Digital Catapult](https://www.digicatapult.org.uk/) is the UK authority on **advanced digital technology**
 
 At Digital Catapult we bridge the gap between businesses of all sizes, government and academics to unlock new ways of solving real world challenges in the manufacturing and creative industries. We provide physical and digital facilities that would otherwise not be accessible for smaller companies helping to break down barriers to technology adoption.
 
-{% include figure.html url="/assets/images/digitalcatapult/startups.jpg" description="" width="700px" %}
+<br>
 
 ## HOW IT FUNCTIONS?
 
-Digital Catapult works together with startups, large businesses, investors, public sectors, and academia to drive innovation and the adoption of advanced digital technology. 
-
-- **Startups** Supporting innovative new technology businesses with the resources, facilities, mentorship, collaboration and support needed for success.
-
--  **Large businesses**  Enabling large businesses to become early industry adopters of advanced digital technologies to deliver competitive advantage and commercial growth.
-
-- **Investors**  Enabling investors and venture capitalists to engage with our innovator ecosystem for mutual benefit.
-
-- **Government and public sector**  Working with the UK Government to advise, design and deliver programmes for the UK’s advanced digital technology ecosystem.
-
-- **Research and academia**  Working with world-leading researchers from top UK universities to bring the latest thinking right into the heart of industry.
+Digital Catapult works with a range of organisations – including startups and scaleups, established businesses, investors, government and public sector, research and academia – to discover new ways of solving industry challenges, increase productivity and open up new markets.
 
 
 {% include figure.html url="/assets/images/digitalcatapult/office2.jpeg" description="" %}
@@ -32,17 +22,20 @@ Digital Catapult works together with startups, large businesses, investors, publ
 
 ## MY ROLE
 
-I currently work on innovation programmes and projects with startups, scaleups and large corporations across different technology areas.  
-
-Among others, I've led and shaped the immersive acceleration and R&D programmes: 
+During my time with Catapult I've held multiple different role - from Innovation Corrdinator and Delivery Manager to Product Manager. 
+In these roles, I've **led and shaped multiple acceleration and R&D programmes** such as: 
 
 - [Augmentor](https://augmentor.digicatapult.org.uk/)
 - [CreativeXR](https://creativexr.co.uk/)
 - [Audience of the Future](https://audienceofthefuture.live/)
-
-as well as work on bigger corporate projects and even on companuy's first spin-off
-
 - [Made Smarter](https://www.madesmarter.uk/)
+
+During these initiatives, I've also **helped 50+ tech startups** across a range of sectors **with their growth** - from building an MVP to finding their PM fit and shaping their go-to market stragetgies. This generated stellar results such as a 50% investment rate among startup cohorts I worked with and increased programmes' recognition.
+
+When working on bigger scope projects like Made Smarter, I've handled and managed expectations of commercial clients such as Sainsbury and BAE Systems, as well as worked cross-functionally with teams to create value.
+
+I was also part of the team that lanched the company's first spin-of:
+
 - [Urban Data Collective](https://www.urbandatacollective.com/)
 
 

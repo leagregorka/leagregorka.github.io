@@ -66,14 +66,14 @@ featuredimage: /
     <div class="row">
       <div class="col-md-8 col-sm-8">
         <div class="services-content">
-          <h4>Who am I?</h4>
+          <h4>About me</h4>
           <p> </p>
           <p>I enjoy getting stuff done. Due to my “let’s get organized” mania, I thrive with clearly defined goals & deadlines.</p>
           <p>I’m the kind of person who likes being in control of my schedule, however improvising in unpredictable emergency cases (believe me, they happen often in the “start-up world”) has also become my thing too.</p>
+          <p>I love numbers and data - they play an important role in my decision making process. I'm also intrigued by human psychology, which explains my education in social sciences and HR.</p>
+          <p>Open to different perspectives and feedback, I'm also always eager to learn more. As the world is constantly changing and developing, so should our knowledge. </p>
           <p>I consider myself realistic & highly responsible, therefore values such as transparency & honesty are of the utmost importance to me.</p>
-          <p>I firmly believe in the power of teamwork. Not only do I consider people the greatest asset that organizations have, but also believe that the right teams can achieve great things. I guess that explains my MSc in HRM.</p>
-          <p>I'm currently working on innovation programmes and projects with startups, scaleups, academia and large corporations to help grow their businesses and solve their challenges.</p>
-          <p>I also LOVE to travel & experience other cultural environments.</p>
+          <p>I'm currently working with startups, scaleups and large corporations helping them shape and fulfill their product strategies and visions.</p>
         </div>
       </div>
       <div class="col-md-4 col-sm-4">
@@ -104,6 +104,11 @@ featuredimage: /
 </section>
 
 
-<!-- portfolio grid section -->
-{% include home-portefolio.html %}
-<!-- portfolio grid section -->
+<!-- experience grid section -->
+{% include home-experience.html %}
+<!-- experience grid section -->
+
+
+<!-- projects grid section -->
+{% include home-projects.html %}
+<!-- projects grid section -->

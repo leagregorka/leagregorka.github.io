@@ -22,10 +22,9 @@ The main purpose of the Club’s exclusivity is to grant the feeling of trust am
 
 Club members are united on monthly basis at **exclusive dinners with special activities** (e.g. karting, wine tasting) and also on **other occasional events** (weekend retreats, travels, etc.).
 
-Club members are also entitled to other benefits such as office space rental and participatin on closed events of Founders Founders community.
 
 ## MY ROLE
 
-I am the the Founders Club **promoter and organizer**, which means I am responsible for **all club's operations**. Therefore, I am in charge of the club's **activities, benefits, current and future members**. The majority of my work consists of coordinating the activities - from the idea phase, scheduling,  inviting to the alignment of members' availabilities. 
+I was the Founders Club **promoter and organizer**, which meant I was responsible for **all club's operations**. Therefore, I was in charge of the club's **activities, benefits, current and future members**. The majority of my work consisted of coordinating the activities - from the idea phase, scheduling,  inviting to the alignment of members' availabilities. 
 
 {% include figure.html url="/assets/images/foundersclub/foundersclub_5.png" description="" %}
