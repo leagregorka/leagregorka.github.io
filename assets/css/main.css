@@ -381,16 +381,20 @@ ul li {
 /* ------------------------------------------------------------------------------
 	 Portfolio
 -------------------------------------------------------------------------------*/
-#experience, #projects {
+#experience, #projects, #volunteering {
 	width: 92%;
 	margin: auto;
 }
-#experience .portfolio-item, #projects .portfolio-item {
+#experience .portfolio-item, 
+#projects .portfolio-item, 
+#volunteering .portfolio-item {
 	right: 0;
 	margin: 0 0 2px;
 	padding: 0 1px;
 }
-#experience .portfolio-item .portfolio-link, #projects .portfolio-item .portfolio-link {
+#experience .portfolio-item .portfolio-link, 
+#projects .portfolio-item .portfolio-link, 
+#volunteering .portfolio-item .portfolio-link {
 	display: block;
 	position: relative;
 	margin: 0 auto;
@@ -400,7 +404,9 @@ ul li {
     background-size: cover;
     background-position: center;
 }
-#experience .portfolio-item .portfolio-link .caption, #projects .portfolio-item .portfolio-link .caption {
+#experience .portfolio-item .portfolio-link .caption, 
+#projects .portfolio-item .portfolio-link .caption, 
+#volunteering .portfolio-item .portfolio-link .caption {
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -410,10 +416,14 @@ ul li {
 	-moz-transition: all ease .5s;
 	transition: all ease .5s;
 }
-#experience .portfolio-item .portfolio-link .caption:hover, #projects .portfolio-item .portfolio-link .caption:hover {
+#experience .portfolio-item .portfolio-link .caption:hover, 
+#projects .portfolio-item .portfolio-link .caption:hover,
+#volunteering .portfolio-item .portfolio-link .caption:hover {
 	opacity: 1;
 }
-#experience .portfolio-item .portfolio-link .caption .caption-content , #projects .portfolio-item .portfolio-link .caption .caption-content {
+#experience .portfolio-item .portfolio-link .caption .caption-content , 
+#projects .portfolio-item .portfolio-link .caption .caption-content,
+#volunteering .portfolio-item .portfolio-link .caption .caption-content {
 	position: absolute;
 	top: 50%;
 	width: 100%;
@@ -423,24 +433,30 @@ ul li {
 	font-size: 20px;
 	color: #fff;
 }
-#experience .portfolio-item .portfolio-link .caption .caption-content i, #projects .portfolio-item .portfolio-link .caption .caption-content i {
+#experience .portfolio-item .portfolio-link .caption .caption-content i, 
+#projects .portfolio-item .portfolio-link .caption .caption-content i,
+#volunteering .portfolio-item .portfolio-link .caption .caption-content i {
 	margin-top: -12px;
 }
-#experience .portfolio-item .portfolio-link .caption .caption-content h3 , #projects .portfolio-item .portfolio-link .caption .caption-content h3 {
+#experience .portfolio-item .portfolio-link .caption .caption-content h3 , 
+#projects .portfolio-item .portfolio-link .caption .caption-content h3,
+#volunteering .portfolio-item .portfolio-link .caption .caption-content h3 {
 	margin: 0;
 	color: #e9eaed;
 	font-size: 17px;
 	letter-spacing: 4px;
 	text-transform: uppercase;
 }
-#experience .portfolio-item .portfolio-link .caption .caption-content h4, #projects .portfolio-item .portfolio-link .caption .caption-content h4 {
+#experience .portfolio-item .portfolio-link .caption .caption-content h4, 
+#projects .portfolio-item .portfolio-link .caption .caption-content h4,
+#volunteering .portfolio-item .portfolio-link .caption .caption-content h4 {
 	margin: 10px 0;
 	color: #e9eaed;
 	font-size: 12px;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 }
-#experience *, #projects * {
+#experience *, #projects *, #volunteering * {
 	z-index: 2;
 }
 /* ------------------------------------------------------------------------------

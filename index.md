@@ -112,3 +112,8 @@ featuredimage: /
 <!-- projects grid section -->
 {% include home-projects.html %}
 <!-- projects grid section -->
+
+
+<!-- volunteering grid section -->
+{% include home-volunteering.html %}
+<!-- volunteering grid section -->
