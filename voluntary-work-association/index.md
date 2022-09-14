@@ -1,10 +1,10 @@
 ---
 title: Voluntary Work - Association
-featuredimage: /assets//images/voluntarywork/voluntarywork_10.jpg
+featuredimage: /assets//images/voluntarywork/voluntary_background.jpg
 ---
 # VOLUNTARY WORK
 
-Another volunteetign experince of mine was as an Art Therapy Volunteer at [Association Plus5](https://pomoczumetnostjo.blogspot.pt/) in Ljubljana (Slovenia).
+Another volunteeting experince of mine was as an Art Therapy Volunteer at [Association Plus5](https://pomoczumetnostjo.blogspot.pt/) in Ljubljana (Slovenia).
 
 
 The Association Plus5 is an association that aims to use art therapy methods as a therapeutic techniques to help clients understand their emotional conflicts, develop social skills, improve self-esteem, manage addictions, reduce anxiety, and restore normal functions to their lives.

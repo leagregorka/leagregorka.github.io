@@ -37,4 +37,4 @@ As an intern at Espaço T I was responsible for **conducting cultural initiative
 
 I managed to organise various activities alone - some of them focused on **learning a new language** and others focused on **improving the user’s motoric capabilities**. During this period I had to develop my own class preparation process, lead the activities and better understand the Portuguese social, education and health systems. 
 
-While at Espaço T (7 months) I was also **promoting extra-program activities** among the users and their networks (e.g. families, friends), and also participated in fairs where I was **promoting Espaço T**.
+While at Espaço T I was also **promoting extra-program activities** among the users and their networks (e.g. families, friends), and also participated in fairs where I was **promoting Espaço T**.

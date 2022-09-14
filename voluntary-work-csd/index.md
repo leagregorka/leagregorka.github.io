@@ -1,6 +1,6 @@
 ---
 title: Voluntary Work - CSD
-featuredimage: /assets//images/voluntarywork/voluntarywork_10.jpg
+featuredimage: /assets//images/voluntarywork/voluntary_background2.jpg
 ---
 # VOLUNTARY WORK 
 
@@ -17,7 +17,7 @@ As the **social worker’s assistant** I was responsible for helping in **suppor
 I've held interviews with individuals and families to asses their situation
 undertake and write up assessments, organised support packages and participateed in team supervisions and meetings.
 
-{% include figure.html url="/assets/images/voluntarywork/voluntarywork_12.jpeg" description="" %}
+
 
 
 

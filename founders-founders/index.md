@@ -37,19 +37,19 @@ Founders Founders in Portuguese media and newspapers:
 
 ## MY ROLE
 
-As the **community and operations manager of Founders Founders** I was responsible for day-to-day operations of the community as well as for ensuring the well-being of all members. I manage the organization’s **communication, marketing, PR & sponsors, and also direct and coordinate events**. Besides that, I’m also responsible for the pre-selection, selection and on-boarding of the new resident scale-ups at Founders Founders.
+As the **community and operations manager of Founders Founders** I was responsible for day-to-day operations of the community as well as for ensuring the well-being of all members. I managed the organization’s **communication, marketing, PR & sponsors, and also direct and coordinate events**. You can read all the newsletters I've written in this <a href="/blog">BLOG</a>.
 
-You can read all the newsletters I've written in this <a href="/blog">BLOG</a>.
+Besides that, I was also responsible for the pre-selection, selection and on-boarding of the new resident scale-ups at Founders Founders.
 
 {% include figure.html url="/assets/images/f2/f2_7.jpg" description="" %}
 
-I joined Founders Founders in June 2016 and the project has been growing ever since. When I joined the Founders Founders only had 8 resident start-ups, 80 resident members and around 150 people involved in the community. **With time these numbers have grown and currently we have more than 160 resident members and more than 300 people involved.**
+I joined Founders Founders in June 2016 and the project has been growing ever since. When I joined the Founders Founders only had 8 resident start-ups, 80 resident members and around 150 people involved in the community. With time these numbers have grown and currently Founders Founders have **2 office locations in Porto, 1 in Lisbon and Barcelos**. It also has more than 300+ resident members and more than 600 people involved in the network.
 
 {% include figure.html url="/assets/images/f2/f2_10.jpg" description="" %}
 
-In short we can say I make sure that Founders Founders community provides the best conditions for its members and creates synergies between them to contribute towards their growth, every day.
+I was also responisble for creating synergies and partnerships with other companies that would contribute towards the growth of our members as well as our project. 
 
-My work also involves leading and implementing Founders Founders independent projects such as Founders TV’s vlog series, **Founder Meets Founder** and **Incinerator**, and one week event, **BOOM – Massive Growth Week**.
+My work also involved leading and implementing Founders Founders independent projects such as Founders TV’s vlog series, **Founder Meets Founder** and **Incinerator**, and one week event, **BOOM – Massive Growth Week**.
 
 {% include figure.html url="/assets/images/f2/f2_8.jpeg" description="" %}
 
