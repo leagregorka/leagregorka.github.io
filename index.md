@@ -80,7 +80,7 @@ featuredimage: /
           <p> • Analytical
           <br />• Ownership mentality
           <br />• Strategic thinking
-          <br />• Product management
+          <br />• Problem solving
           <br />• Jack-off-all trades</p>
           <h4>CV</h4>
           <p> </p>
